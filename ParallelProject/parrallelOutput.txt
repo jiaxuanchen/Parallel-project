@@ -1,0 +1,4800 @@
+Point 0:
+final x axis is -67.25626647658606
+final y axis is  -56.07497498882263
+final Velocity in x axis is  -1.5126555967754325
+final velocity in y axis is  -0.18618379119293443
+
+Point 1:
+final x axis is 101.64519122348175
+final y axis is  -58.59406990510778
+final Velocity in x axis is  -1.5999590266030004
+final velocity in y axis is  1.3070049001976665
+
+Point 2:
+final x axis is -139.59927970663864
+final y axis is  -28.28587997204674
+final Velocity in x axis is  1.8355213669706583
+final velocity in y axis is  3.1485256406148774
+
+Point 3:
+final x axis is 107.4359825293325
+final y axis is  117.19809041914452
+final Velocity in x axis is  2.43499912317469
+final velocity in y axis is  -2.044276190138383
+
+Point 4:
+final x axis is 176.53196859926035
+final y axis is  113.92156826105482
+final Velocity in x axis is  -0.9116807578811587
+final velocity in y axis is  -3.4870391790724784
+
+Point 5:
+final x axis is 144.55924107205132
+final y axis is  104.60252821749488
+final Velocity in x axis is  -5.077318718639547
+final velocity in y axis is  -1.3285173728731734
+
+Point 6:
+final x axis is -67.83708047593666
+final y axis is  -82.79217763515516
+final Velocity in x axis is  -2.847361244047567
+final velocity in y axis is  -0.008899938202418706
+
+Point 7:
+final x axis is 44.887665401644846
+final y axis is  135.30461325513636
+final Velocity in x axis is  -1.5983221462216883
+final velocity in y axis is  0.5023754997660853
+
+Point 8:
+final x axis is -99.37553966381299
+final y axis is  121.60295254142945
+final Velocity in x axis is  1.8933920011548833
+final velocity in y axis is  -5.119330035206152
+
+Point 9:
+final x axis is -37.68310970647729
+final y axis is  -26.940222031011373
+final Velocity in x axis is  1.1112335482834264
+final velocity in y axis is  -1.5915812367918296
+
+Point 10:
+final x axis is 15.128554736461014
+final y axis is  -2.131593844729472
+final Velocity in x axis is  1.7073348388139629
+final velocity in y axis is  0.8426516856314905
+
+Point 11:
+final x axis is -4.994710515865134
+final y axis is  -89.55790916415624
+final Velocity in x axis is  -0.36230550784892923
+final velocity in y axis is  3.155786650041875
+
+Point 12:
+final x axis is 29.06496843111365
+final y axis is  -75.66890668185843
+final Velocity in x axis is  -0.3456887300265328
+final velocity in y axis is  1.77707387654093
+
+Point 13:
+final x axis is 155.41634444536462
+final y axis is  -157.47629432588693
+final Velocity in x axis is  -1.559994441440841
+final velocity in y axis is  0.6105018147912507
+
+Point 14:
+final x axis is -235.42281620422045
+final y axis is  142.7251669984389
+final Velocity in x axis is  1.3332206857905353
+final velocity in y axis is  -1.3163521620635978
+
+Point 15:
+final x axis is -139.36775142112558
+final y axis is  133.51463933058042
+final Velocity in x axis is  2.0571956948834327
+final velocity in y axis is  -3.8493460908100054
+
+Point 16:
+final x axis is -44.7488031204303
+final y axis is  -108.47563515465852
+final Velocity in x axis is  5.316310034127864
+final velocity in y axis is  0.10464307735815431
+
+Point 17:
+final x axis is -15.26282782274007
+final y axis is  65.61253340226631
+final Velocity in x axis is  1.3852956258706213
+final velocity in y axis is  -1.4917492173278595
+
+Point 18:
+final x axis is -102.76291144704342
+final y axis is  -61.7375378506206
+final Velocity in x axis is  1.6732873546352993
+final velocity in y axis is  4.0242240528693864
+
+Point 19:
+final x axis is 114.82289048365057
+final y axis is  -79.13563732827727
+final Velocity in x axis is  -1.4994669964356446
+final velocity in y axis is  -0.0767000674132417
+
+Point 20:
+final x axis is -161.5063689819334
+final y axis is  -128.92974925940214
+final Velocity in x axis is  0.7778369664848181
+final velocity in y axis is  0.4595880341058992
+
+Point 21:
+final x axis is -162.32883183956463
+final y axis is  -26.02299425637994
+final Velocity in x axis is  2.8220248197896556
+final velocity in y axis is  -0.7793625543387743
+
+Point 22:
+final x axis is -155.35115013244587
+final y axis is  178.84643439607666
+final Velocity in x axis is  2.666350503409702
+final velocity in y axis is  -1.5893270182914945
+
+Point 23:
+final x axis is 114.7035494164468
+final y axis is  -162.54108776134407
+final Velocity in x axis is  -3.3681247888546597
+final velocity in y axis is  0.611604285373133
+
+Point 24:
+final x axis is -128.17065984238738
+final y axis is  34.65135190197607
+final Velocity in x axis is  0.8361347116620181
+final velocity in y axis is  0.4506809034284794
+
+Point 25:
+final x axis is -158.20689476713738
+final y axis is  160.28066299079737
+final Velocity in x axis is  3.702343563953022
+final velocity in y axis is  -1.7157171972758603
+
+Point 26:
+final x axis is 17.507056385650156
+final y axis is  115.4416013025601
+final Velocity in x axis is  -0.9508838667951821
+final velocity in y axis is  -3.1332856845931696
+
+Point 27:
+final x axis is 119.30428133954712
+final y axis is  -54.61464773652145
+final Velocity in x axis is  -3.4268524434600383
+final velocity in y axis is  0.6268264812361908
+
+Point 28:
+final x axis is 135.28994309068037
+final y axis is  27.20868722295101
+final Velocity in x axis is  -1.1451368013629377
+final velocity in y axis is  1.377959688579751
+
+Point 29:
+final x axis is -166.71137757074
+final y axis is  154.62619793038465
+final Velocity in x axis is  3.2668186953958047
+final velocity in y axis is  -1.9730240750030237
+
+Point 30:
+final x axis is -63.180463466589124
+final y axis is  -151.31096575518913
+final Velocity in x axis is  2.021416623888401
+final velocity in y axis is  1.2364135935459666
+
+Point 31:
+final x axis is 55.45824684273489
+final y axis is  108.23928985892539
+final Velocity in x axis is  -3.8033343585015595
+final velocity in y axis is  -1.213642033632623
+
+Point 32:
+final x axis is 135.63235418966255
+final y axis is  111.56422125517462
+final Velocity in x axis is  -0.04246544996461939
+final velocity in y axis is  0.23579050544500965
+
+Point 33:
+final x axis is 86.47852194956651
+final y axis is  5.667208090696318
+final Velocity in x axis is  -2.219287781326146
+final velocity in y axis is  1.775344431403509
+
+Point 34:
+final x axis is -172.0558596701825
+final y axis is  -126.13952085311783
+final Velocity in x axis is  1.81864896212464
+final velocity in y axis is  2.600537207711644
+
+Point 35:
+final x axis is -4.912273084632015
+final y axis is  -162.909804736244
+final Velocity in x axis is  -2.443600967075783
+final velocity in y axis is  3.022466797216504
+
+Point 36:
+final x axis is -73.21117979413789
+final y axis is  151.690283594107
+final Velocity in x axis is  1.6041603398397972
+final velocity in y axis is  -1.1939851035625704
+
+Point 37:
+final x axis is -93.59916406035157
+final y axis is  20.581758250434973
+final Velocity in x axis is  4.496352159028968
+final velocity in y axis is  -0.7341592910406765
+
+Point 38:
+final x axis is -37.83749430548696
+final y axis is  -100.01039590410997
+final Velocity in x axis is  0.5415087470059503
+final velocity in y axis is  -1.196053369624379
+
+Point 39:
+final x axis is 56.425096443418106
+final y axis is  -22.076178246141605
+final Velocity in x axis is  -6.316514554196615
+final velocity in y axis is  -2.9543245108076355
+
+Point 40:
+final x axis is 161.66973696215933
+final y axis is  -34.35542699764575
+final Velocity in x axis is  -0.5012049250254139
+final velocity in y axis is  3.9005181635128228
+
+Point 41:
+final x axis is -0.5683056042397862
+final y axis is  127.58953202606912
+final Velocity in x axis is  0.8242649620949948
+final velocity in y axis is  -2.542366445755165
+
+Point 42:
+final x axis is -121.70374059688142
+final y axis is  70.99960219525947
+final Velocity in x axis is  -0.588254478000366
+final velocity in y axis is  -4.23257433519067
+
+Point 43:
+final x axis is -79.41548593802702
+final y axis is  106.04363645852447
+final Velocity in x axis is  3.9183585806467254
+final velocity in y axis is  0.7112301173323938
+
+Point 44:
+final x axis is 123.51698259260614
+final y axis is  59.27741945985972
+final Velocity in x axis is  -0.5284617743383745
+final velocity in y axis is  -2.7255330305889327
+
+Point 45:
+final x axis is 148.88401590570888
+final y axis is  73.06478442829348
+final Velocity in x axis is  -1.9016288163454753
+final velocity in y axis is  1.086855629886713
+
+Point 46:
+final x axis is 93.8808859387529
+final y axis is  141.43837821818315
+final Velocity in x axis is  -5.649239953709757
+final velocity in y axis is  -3.36399014949361
+
+Point 47:
+final x axis is 111.65530229070744
+final y axis is  167.3023955652179
+final Velocity in x axis is  0.43529138560119834
+final velocity in y axis is  -1.41704997170313
+
+Point 48:
+final x axis is -45.54242005649274
+final y axis is  -3.600684580551774
+final Velocity in x axis is  0.47755278039859156
+final velocity in y axis is  0.2912672961113809
+
+Point 49:
+final x axis is -66.355069292224
+final y axis is  -36.06469071295577
+final Velocity in x axis is  2.461290832975054
+final velocity in y axis is  2.444724537474832
+
+Point 50:
+final x axis is 162.5648760703311
+final y axis is  90.13427975610192
+final Velocity in x axis is  -2.2630531216436354
+final velocity in y axis is  1.681529140083418
+
+Point 51:
+final x axis is 67.27249643395533
+final y axis is  -129.9455311621032
+final Velocity in x axis is  -0.26233001577139237
+final velocity in y axis is  5.198272064410313
+
+Point 52:
+final x axis is -105.46476164220118
+final y axis is  -31.054233241144843
+final Velocity in x axis is  3.0280752617362827
+final velocity in y axis is  1.0684713584768109
+
+Point 53:
+final x axis is -207.60799850150534
+final y axis is  192.0601606969756
+final Velocity in x axis is  1.0578666831909351
+final velocity in y axis is  -2.2423029562647074
+
+Point 54:
+final x axis is -56.093252531517166
+final y axis is  -111.00117053353091
+final Velocity in x axis is  4.808523702692795
+final velocity in y axis is  4.409194424411772
+
+Point 55:
+final x axis is 109.98270422689714
+final y axis is  -152.30188780272866
+final Velocity in x axis is  -2.33030108743138
+final velocity in y axis is  1.9760424330835555
+
+Point 56:
+final x axis is -68.41906402008959
+final y axis is  -142.79292230373474
+final Velocity in x axis is  1.673389013038151
+final velocity in y axis is  4.609406257565787
+
+Point 57:
+final x axis is 147.2549423125585
+final y axis is  -112.90824956003365
+final Velocity in x axis is  0.35466909866577834
+final velocity in y axis is  1.8063615713086671
+
+Point 58:
+final x axis is 126.11016070789475
+final y axis is  108.51007140688971
+final Velocity in x axis is  -7.253340091426845
+final velocity in y axis is  -1.7120394610264893
+
+Point 59:
+final x axis is 176.22025802830356
+final y axis is  -0.475748225520375
+final Velocity in x axis is  2.4557072485207088
+final velocity in y axis is  1.6789238310828198
+
+Point 60:
+final x axis is 89.29755173540825
+final y axis is  34.09347516273139
+final Velocity in x axis is  -3.6882027526564114
+final velocity in y axis is  1.092948919050492
+
+Point 61:
+final x axis is -88.84492654845667
+final y axis is  84.74319732260275
+final Velocity in x axis is  4.031148228995911
+final velocity in y axis is  -2.8636318052085015
+
+Point 62:
+final x axis is -120.80193806204365
+final y axis is  51.70643557370211
+final Velocity in x axis is  3.2021928577075514
+final velocity in y axis is  -0.0501158313562475
+
+Point 63:
+final x axis is -115.13394189050446
+final y axis is  126.14390215366348
+final Velocity in x axis is  1.5225345175773979
+final velocity in y axis is  -1.055968449367401
+
+Point 64:
+final x axis is -73.91088148102945
+final y axis is  -1.1261844686911187
+final Velocity in x axis is  2.0181229624013146
+final velocity in y axis is  2.1630678065035664
+
+Point 65:
+final x axis is -27.294998211218278
+final y axis is  36.727945277852584
+final Velocity in x axis is  0.4185187325916836
+final velocity in y axis is  2.5081221984768045
+
+Point 66:
+final x axis is -163.5163136403778
+final y axis is  -118.14846944374706
+final Velocity in x axis is  0.816427351659851
+final velocity in y axis is  2.1608000334010438
+
+Point 67:
+final x axis is -172.9150590600609
+final y axis is  -61.269376324121936
+final Velocity in x axis is  3.2031611538661116
+final velocity in y axis is  2.343341691782991
+
+Point 68:
+final x axis is 38.9203150501053
+final y axis is  -69.34412180820448
+final Velocity in x axis is  -2.4694418111122998
+final velocity in y axis is  1.5633055357802148
+
+Point 69:
+final x axis is -83.74931614657895
+final y axis is  -29.134205851195684
+final Velocity in x axis is  0.3641687322850949
+final velocity in y axis is  -1.011935595805436
+
+Point 70:
+final x axis is 103.09756197733664
+final y axis is  162.12889764515373
+final Velocity in x axis is  -3.1569586802943506
+final velocity in y axis is  -2.3248932235475634
+
+Point 71:
+final x axis is 107.57381026761
+final y axis is  93.56768802655245
+final Velocity in x axis is  0.191051559340573
+final velocity in y axis is  -5.048394022771289
+
+Point 72:
+final x axis is -142.86692384254056
+final y axis is  61.993987966993885
+final Velocity in x axis is  2.9910770166461718
+final velocity in y axis is  -2.0187129096933614
+
+Point 73:
+final x axis is -127.14441734820812
+final y axis is  20.07267336872329
+final Velocity in x axis is  3.4471957883734894
+final velocity in y axis is  0.45102556931456783
+
+Point 74:
+final x axis is 62.54863424176907
+final y axis is  -70.05698751274882
+final Velocity in x axis is  -4.914092833333538
+final velocity in y axis is  3.584492048695796
+
+Point 75:
+final x axis is -118.89264388262077
+final y axis is  -68.9300367902125
+final Velocity in x axis is  1.649333020821811
+final velocity in y axis is  1.106941047759716
+
+Point 76:
+final x axis is -17.17535725672322
+final y axis is  132.5474079295723
+final Velocity in x axis is  2.0231538612943023
+final velocity in y axis is  -2.2413919170001217
+
+Point 77:
+final x axis is -139.01852057367051
+final y axis is  4.602613230254571
+final Velocity in x axis is  1.4720783130585606
+final velocity in y axis is  -2.2917508182491524
+
+Point 78:
+final x axis is -29.763719421960456
+final y axis is  65.30395049842738
+final Velocity in x axis is  0.02239944006548995
+final velocity in y axis is  -4.8297895004104925
+
+Point 79:
+final x axis is 162.91707427426962
+final y axis is  -93.16121045179119
+final Velocity in x axis is  -0.7000945101790889
+final velocity in y axis is  3.149422210107535
+
+Point 80:
+final x axis is -41.028680215522854
+final y axis is  100.64661013600866
+final Velocity in x axis is  -1.0575165422313362
+final velocity in y axis is  -4.057492390640893
+
+Point 81:
+final x axis is -220.3032327705873
+final y axis is  30.3323024065622
+final Velocity in x axis is  0.8829454897848845
+final velocity in y axis is  -1.672380987794912
+
+Point 82:
+final x axis is -157.53306098227904
+final y axis is  -140.06557212642298
+final Velocity in x axis is  1.8546361899639394
+final velocity in y axis is  1.448698797338148
+
+Point 83:
+final x axis is -111.29484457590402
+final y axis is  -20.71322849130421
+final Velocity in x axis is  1.8522151669705742
+final velocity in y axis is  -2.809928727405002
+
+Point 84:
+final x axis is -166.17290079918695
+final y axis is  -40.053590786827016
+final Velocity in x axis is  3.758736606951509
+final velocity in y axis is  0.4306771682412073
+
+Point 85:
+final x axis is 92.69602251254831
+final y axis is  -23.23464747153767
+final Velocity in x axis is  -3.957506921499594
+final velocity in y axis is  0.12515665738365597
+
+Point 86:
+final x axis is -79.83582654863085
+final y axis is  63.456237743840305
+final Velocity in x axis is  4.380715063282978
+final velocity in y axis is  -4.882071251445356
+
+Point 87:
+final x axis is -84.92030966239867
+final y axis is  4.855990998406429
+final Velocity in x axis is  2.4724022288993233
+final velocity in y axis is  -2.413699607278729
+
+Point 88:
+final x axis is -47.628934557267954
+final y axis is  -92.61716232974155
+final Velocity in x axis is  -1.6982302536756784
+final velocity in y axis is  3.2403355980921065
+
+Point 89:
+final x axis is -137.91544096173422
+final y axis is  105.53574862155243
+final Velocity in x axis is  1.6113280612089649
+final velocity in y axis is  -1.3155295865632597
+
+Point 90:
+final x axis is 54.14203278497515
+final y axis is  -75.61966735035364
+final Velocity in x axis is  1.76747692457419
+final velocity in y axis is  1.676222328752111
+
+Point 91:
+final x axis is -170.11166208422839
+final y axis is  -160.17410778053352
+final Velocity in x axis is  0.6805514370435973
+final velocity in y axis is  1.2668745139267794
+
+Point 92:
+final x axis is 136.4574047732665
+final y axis is  -114.88978424854157
+final Velocity in x axis is  -1.7778867609926488
+final velocity in y axis is  2.6305441190951293
+
+Point 93:
+final x axis is -171.9290307040422
+final y axis is  -137.6505439232943
+final Velocity in x axis is  1.189543164217506
+final velocity in y axis is  2.9975638964078977
+
+Point 94:
+final x axis is -146.71456269836375
+final y axis is  -115.82979766104806
+final Velocity in x axis is  1.8191726926652763
+final velocity in y axis is  1.659101272648705
+
+Point 95:
+final x axis is -153.6112983706567
+final y axis is  -123.07100177821819
+final Velocity in x axis is  -0.1704113423418221
+final velocity in y axis is  1.263162138952265
+
+Point 96:
+final x axis is -88.56646362189045
+final y axis is  -18.80714494535828
+final Velocity in x axis is  0.1324931022906988
+final velocity in y axis is  -3.0043276241219643
+
+Point 97:
+final x axis is -2.4639603874414893
+final y axis is  96.22618565884241
+final Velocity in x axis is  -2.7062468249624283
+final velocity in y axis is  -2.879365234467508
+
+Point 98:
+final x axis is -88.34656694435877
+final y axis is  -40.653322363116125
+final Velocity in x axis is  -0.02362077836478423
+final velocity in y axis is  0.8928408982634191
+
+Point 99:
+final x axis is -98.87414172500247
+final y axis is  -144.3437774704914
+final Velocity in x axis is  2.9058781745190947
+final velocity in y axis is  0.3142612573294354
+
+Point 100:
+final x axis is 158.45571902865558
+final y axis is  80.04510097315072
+final Velocity in x axis is  2.5746559853102102
+final velocity in y axis is  -3.3745851469829975
+
+Point 101:
+final x axis is 40.1103727677571
+final y axis is  -45.202731154775485
+final Velocity in x axis is  -1.2999989248376715
+final velocity in y axis is  6.5229581826327205
+
+Point 102:
+final x axis is -134.72920566306465
+final y axis is  182.1252114771959
+final Velocity in x axis is  -0.37658787578531316
+final velocity in y axis is  -1.2179214725104532
+
+Point 103:
+final x axis is 135.6613649897027
+final y axis is  6.253516132136416
+final Velocity in x axis is  -0.6548203318373612
+final velocity in y axis is  -0.11400530765320072
+
+Point 104:
+final x axis is -21.55481895458198
+final y axis is  152.34003101022176
+final Velocity in x axis is  0.9221861331227273
+final velocity in y axis is  -2.6614368045002506
+
+Point 105:
+final x axis is 12.573283837171745
+final y axis is  -119.15944610561795
+final Velocity in x axis is  -2.3221776064450244
+final velocity in y axis is  1.9888922847956505
+
+Point 106:
+final x axis is -62.68255496891184
+final y axis is  -101.00079273458257
+final Velocity in x axis is  1.129483395773169
+final velocity in y axis is  1.6600102318147387
+
+Point 107:
+final x axis is 121.60309259810737
+final y axis is  78.56680908629187
+final Velocity in x axis is  -2.100783228767743
+final velocity in y axis is  0.888831493608607
+
+Point 108:
+final x axis is -76.19284256255611
+final y axis is  12.625142494679912
+final Velocity in x axis is  -0.25745089570073976
+final velocity in y axis is  0.33978807880642214
+
+Point 109:
+final x axis is -1.024668436192659
+final y axis is  -103.29180864779055
+final Velocity in x axis is  -1.6150780745905322
+final velocity in y axis is  2.282790365344944
+
+Point 110:
+final x axis is -91.788218183061
+final y axis is  167.6707347335044
+final Velocity in x axis is  1.7719543254949592
+final velocity in y axis is  -3.336017206327779
+
+Point 111:
+final x axis is -79.28742726358408
+final y axis is  159.63252614203068
+final Velocity in x axis is  -1.2443811872266388
+final velocity in y axis is  -1.7421783612161148
+
+Point 112:
+final x axis is -34.973641091143186
+final y axis is  -90.49839422358366
+final Velocity in x axis is  2.2650111671839035
+final velocity in y axis is  1.680326086867585
+
+Point 113:
+final x axis is 142.832142069757
+final y axis is  -141.174464460192
+final Velocity in x axis is  -1.9473631976583403
+final velocity in y axis is  4.4972346663878255
+
+Point 114:
+final x axis is -143.47739500711904
+final y axis is  -69.76294701227836
+final Velocity in x axis is  4.052266960640737
+final velocity in y axis is  0.18706083557466135
+
+Point 115:
+final x axis is -86.42682206944659
+final y axis is  -161.29041884102995
+final Velocity in x axis is  -0.003826054780126334
+final velocity in y axis is  2.735286922375133
+
+Point 116:
+final x axis is 174.41479598252283
+final y axis is  76.62896664236467
+final Velocity in x axis is  -0.03610925472628708
+final velocity in y axis is  0.8706864668700826
+
+Point 117:
+final x axis is -54.837140364572974
+final y axis is  -84.83229446124392
+final Velocity in x axis is  -1.4091283234898588
+final velocity in y axis is  2.9299152138688758
+
+Point 118:
+final x axis is -41.72936956635279
+final y axis is  -136.89531403609465
+final Velocity in x axis is  0.13432313238789334
+final velocity in y axis is  3.891472005535066
+
+Point 119:
+final x axis is -138.76400276442982
+final y axis is  93.352913378051
+final Velocity in x axis is  1.8062355462785955
+final velocity in y axis is  -1.4077302708598427
+
+Point 120:
+final x axis is 12.310893432378972
+final y axis is  133.39579943108
+final Velocity in x axis is  1.994394553396543
+final velocity in y axis is  -2.0927145486610534
+
+Point 121:
+final x axis is -123.7356317479842
+final y axis is  94.75023892491497
+final Velocity in x axis is  0.4331682083793459
+final velocity in y axis is  -0.7460636002234176
+
+Point 122:
+final x axis is -175.48045838488068
+final y axis is  -188.7466534460572
+final Velocity in x axis is  2.6168864085266543
+final velocity in y axis is  1.0899168933996688
+
+Point 123:
+final x axis is -92.84428791014702
+final y axis is  -126.44956174150158
+final Velocity in x axis is  0.9200742647564253
+final velocity in y axis is  4.334627088791718
+
+Point 124:
+final x axis is -12.524484921632599
+final y axis is  -110.43128794597102
+final Velocity in x axis is  -0.05100131411566755
+final velocity in y axis is  3.433315896553499
+
+Point 125:
+final x axis is 132.66385574908466
+final y axis is  -126.19395129921931
+final Velocity in x axis is  1.1394838841268724
+final velocity in y axis is  3.163211279667219
+
+Point 126:
+final x axis is 86.07678812544083
+final y axis is  51.977113448096894
+final Velocity in x axis is  -5.199530601075853
+final velocity in y axis is  1.312695045828121
+
+Point 127:
+final x axis is 105.56344255316944
+final y axis is  -82.9278334398165
+final Velocity in x axis is  0.21840140350865014
+final velocity in y axis is  2.9638248213050744
+
+Point 128:
+final x axis is -93.60828733747294
+final y axis is  -83.71780834883378
+final Velocity in x axis is  4.927731478497148
+final velocity in y axis is  3.9415485341131986
+
+Point 129:
+final x axis is 76.4198061600725
+final y axis is  -25.34792831842308
+final Velocity in x axis is  -4.803008509537195
+final velocity in y axis is  1.2340498023532234
+
+Point 130:
+final x axis is -158.00663801744068
+final y axis is  -151.09381689593573
+final Velocity in x axis is  1.2395063868510108
+final velocity in y axis is  0.5733938354534163
+
+Point 131:
+final x axis is 160.38359068230955
+final y axis is  -16.28313172862794
+final Velocity in x axis is  1.5137679510213733
+final velocity in y axis is  2.8025198926199626
+
+Point 132:
+final x axis is -153.58771765856596
+final y axis is  -105.73707659950128
+final Velocity in x axis is  1.3182703782903877
+final velocity in y axis is  3.156614555871222
+
+Point 133:
+final x axis is -57.42043498317882
+final y axis is  -41.47473113511237
+final Velocity in x axis is  1.728589765773243
+final velocity in y axis is  -0.9511159207801644
+
+Point 134:
+final x axis is 109.72075956887346
+final y axis is  107.29276535655364
+final Velocity in x axis is  -3.15016530891458
+final velocity in y axis is  0.21018029241902733
+
+Point 135:
+final x axis is -131.45786923172042
+final y axis is  54.614298580681414
+final Velocity in x axis is  1.2957600653334194
+final velocity in y axis is  -2.225241576197452
+
+Point 136:
+final x axis is 104.837854755246
+final y axis is  45.017864855214825
+final Velocity in x axis is  -1.0551731943838591
+final velocity in y axis is  -0.11312085244447077
+
+Point 137:
+final x axis is 141.5575015277071
+final y axis is  94.54380210613384
+final Velocity in x axis is  -4.021921281524877
+final velocity in y axis is  -1.3121360632002663
+
+Point 138:
+final x axis is 68.1493473967441
+final y axis is  79.05413968587925
+final Velocity in x axis is  -4.031051176699578
+final velocity in y axis is  -0.8853205130960268
+
+Point 139:
+final x axis is 12.306047715155243
+final y axis is  -91.86429893389018
+final Velocity in x axis is  0.9892583365961324
+final velocity in y axis is  3.831057284842575
+
+Point 140:
+final x axis is 86.63563167969458
+final y axis is  102.42310435108
+final Velocity in x axis is  0.07909125775180671
+final velocity in y axis is  -1.3739624969858608
+
+Point 141:
+final x axis is 96.07439016162994
+final y axis is  64.90994647948291
+final Velocity in x axis is  -3.549892915419944
+final velocity in y axis is  -0.41115796530829807
+
+Point 142:
+final x axis is 70.14601574619508
+final y axis is  -140.41787335785358
+final Velocity in x axis is  -1.752430964585892
+final velocity in y axis is  4.412306970313674
+
+Point 143:
+final x axis is 177.71807889269974
+final y axis is  -150.4953061208934
+final Velocity in x axis is  -1.6328080607420037
+final velocity in y axis is  1.5785183969699257
+
+Point 144:
+final x axis is -0.7958088340816749
+final y axis is  106.08606752400809
+final Velocity in x axis is  1.621484011065127
+final velocity in y axis is  0.5293908792154803
+
+Point 145:
+final x axis is 100.47432678980029
+final y axis is  -106.32663115841575
+final Velocity in x axis is  -3.4478975319996774
+final velocity in y axis is  3.5579983647234332
+
+Point 146:
+final x axis is 9.725700938108105
+final y axis is  7.711024165879827
+final Velocity in x axis is  -0.7319346823123635
+final velocity in y axis is  -2.711054140559732
+
+Point 147:
+final x axis is -101.77559776632171
+final y axis is  27.166485576828325
+final Velocity in x axis is  4.2394102986034525
+final velocity in y axis is  -2.956648907288901
+
+Point 148:
+final x axis is -34.87461623928761
+final y axis is  116.77381993543354
+final Velocity in x axis is  1.6141159173364326
+final velocity in y axis is  -2.220883466729011
+
+Point 149:
+final x axis is 105.39926295749252
+final y axis is  5.485216368838746
+final Velocity in x axis is  -1.6113998135535323
+final velocity in y axis is  -3.056726385002955
+
+Point 150:
+final x axis is -71.96383198957211
+final y axis is  85.85969862149112
+final Velocity in x axis is  4.136124047296589
+final velocity in y axis is  -1.5334372414802133
+
+Point 151:
+final x axis is 149.96693253637864
+final y axis is  89.1325665623422
+final Velocity in x axis is  -1.0168739141243104
+final velocity in y axis is  1.0223443118481024
+
+Point 152:
+final x axis is 103.02701888065333
+final y axis is  -115.99533133420445
+final Velocity in x axis is  1.1026077940656456
+final velocity in y axis is  1.6410081588435772
+
+Point 153:
+final x axis is -144.78085873428688
+final y axis is  146.18099092793526
+final Velocity in x axis is  5.438173493562604
+final velocity in y axis is  -2.5995202486938487
+
+Point 154:
+final x axis is -122.81191808257391
+final y axis is  -204.10308779147513
+final Velocity in x axis is  3.6243671263591457
+final velocity in y axis is  0.5278386092099692
+
+Point 155:
+final x axis is -133.40375344935873
+final y axis is  -134.73910392386878
+final Velocity in x axis is  1.857806401247494
+final velocity in y axis is  2.8920802212765335
+
+Point 156:
+final x axis is 155.49731792042772
+final y axis is  136.10191605532805
+final Velocity in x axis is  -3.7075700375445253
+final velocity in y axis is  -3.0304007649138462
+
+Point 157:
+final x axis is -156.99897913983943
+final y axis is  -77.54808076171827
+final Velocity in x axis is  0.7591499530980258
+final velocity in y axis is  1.1518824381143158
+
+Point 158:
+final x axis is -111.45815925487484
+final y axis is  44.35143099616484
+final Velocity in x axis is  -0.6839363945239737
+final velocity in y axis is  -4.165315711837515
+
+Point 159:
+final x axis is -101.95886545172706
+final y axis is  -89.18631854582237
+final Velocity in x axis is  2.9604073212858673
+final velocity in y axis is  3.8016150363234806
+
+Point 160:
+final x axis is -160.6495126916414
+final y axis is  -52.106216710446354
+final Velocity in x axis is  2.594044942632209
+final velocity in y axis is  1.6493799640931062
+
+Point 161:
+final x axis is -42.440062909503816
+final y axis is  -58.026777420251335
+final Velocity in x axis is  5.02607330211634
+final velocity in y axis is  1.6591664867876355
+
+Point 162:
+final x axis is 67.62766300182636
+final y axis is  57.068042066838835
+final Velocity in x axis is  0.6855416889822195
+final velocity in y axis is  -0.550446832974125
+
+Point 163:
+final x axis is 145.26325135115314
+final y axis is  36.83374857806119
+final Velocity in x axis is  -1.1843030238248944
+final velocity in y axis is  -0.5336638322281151
+
+Point 164:
+final x axis is -25.737724284789643
+final y axis is  -8.085093245666874
+final Velocity in x axis is  0.7441450376243759
+final velocity in y axis is  -0.9024470648697311
+
+Point 165:
+final x axis is -23.070500132427167
+final y axis is  95.69729281910654
+final Velocity in x axis is  0.07914002659082099
+final velocity in y axis is  -2.313423810103955
+
+Point 166:
+final x axis is 82.61622528246306
+final y axis is  -133.03959764737874
+final Velocity in x axis is  -0.1680181841446733
+final velocity in y axis is  2.879348867356572
+
+Point 167:
+final x axis is -70.11248145127533
+final y axis is  57.479897654622384
+final Velocity in x axis is  2.3347286624254173
+final velocity in y axis is  -2.8134061823129106
+
+Point 168:
+final x axis is 122.17835809299531
+final y axis is  -133.43387142686004
+final Velocity in x axis is  -3.213807634453487
+final velocity in y axis is  1.7997971948521274
+
+Point 169:
+final x axis is -55.29723314917769
+final y axis is  150.72199906628987
+final Velocity in x axis is  0.20055563405293114
+final velocity in y axis is  -0.6824975980636958
+
+Point 170:
+final x axis is 102.57307113382318
+final y axis is  176.77073905114668
+final Velocity in x axis is  -1.5523248748505336
+final velocity in y axis is  -1.644553037090278
+
+Point 171:
+final x axis is -41.90190939290884
+final y axis is  157.4936040661824
+final Velocity in x axis is  0.9877052672893001
+final velocity in y axis is  0.870172112696128
+
+Point 172:
+final x axis is 21.777275825112422
+final y axis is  45.725774171223264
+final Velocity in x axis is  -0.38975206753638175
+final velocity in y axis is  -2.6763868273371334
+
+Point 173:
+final x axis is -198.36831696298142
+final y axis is  -24.847799554412934
+final Velocity in x axis is  1.9602835286444404
+final velocity in y axis is  0.15470126762189984
+
+Point 174:
+final x axis is 15.17701483737731
+final y axis is  86.17182573568404
+final Velocity in x axis is  -0.02360112307005877
+final velocity in y axis is  -4.035607909451981
+
+Point 175:
+final x axis is 116.12065641146509
+final y axis is  51.51724424665494
+final Velocity in x axis is  -2.30668879326958
+final velocity in y axis is  0.6194487287637964
+
+Point 176:
+final x axis is -12.22936140549816
+final y axis is  -134.97292278383517
+final Velocity in x axis is  2.7401897224905682
+final velocity in y axis is  2.9536304961536213
+
+Point 177:
+final x axis is 31.309639709107426
+final y axis is  131.04838827225777
+final Velocity in x axis is  1.622536694057302
+final velocity in y axis is  -2.05748048596711
+
+Point 178:
+final x axis is 86.57028173143586
+final y axis is  68.92924537946479
+final Velocity in x axis is  -5.4425438783750835
+final velocity in y axis is  -0.5544379642310626
+
+Point 179:
+final x axis is 22.48857958521776
+final y axis is  -174.88763420810122
+final Velocity in x axis is  0.2508773492549548
+final velocity in y axis is  2.8674177478193443
+
+Point 180:
+final x axis is -171.0077649582022
+final y axis is  -109.33153102244036
+final Velocity in x axis is  1.4501600432844457
+final velocity in y axis is  -0.08313777767321034
+
+Point 181:
+final x axis is -7.27501039435604
+final y axis is  -146.31626783095493
+final Velocity in x axis is  2.089975849711075
+final velocity in y axis is  1.2851018630451025
+
+Point 182:
+final x axis is 152.63355850317245
+final y axis is  -1.9713177826961226
+final Velocity in x axis is  -2.635370672610969
+final velocity in y axis is  -0.3705893198564382
+
+Point 183:
+final x axis is 45.65864383505012
+final y axis is  -7.692618891828008
+final Velocity in x axis is  -3.3494383288336045
+final velocity in y axis is  -4.2113887181718574
+
+Point 184:
+final x axis is 37.02346581401529
+final y axis is  65.72336861343965
+final Velocity in x axis is  -1.4013874225060545
+final velocity in y axis is  -2.5608743276869026
+
+Point 185:
+final x axis is -21.313694343537804
+final y axis is  -29.489203690566118
+final Velocity in x axis is  2.4258027527200876
+final velocity in y axis is  1.9436831366274514
+
+Point 186:
+final x axis is 112.40768860859878
+final y axis is  -1.596767213586263
+final Velocity in x axis is  -1.2097322899501266
+final velocity in y axis is  -3.1546051847524015
+
+Point 187:
+final x axis is -18.99634425849742
+final y axis is  54.52732079602125
+final Velocity in x axis is  6.848996466672516
+final velocity in y axis is  -4.944250510844007
+
+Point 188:
+final x axis is -116.23855293700612
+final y axis is  30.004837688433234
+final Velocity in x axis is  2.2314130299340236
+final velocity in y axis is  2.6639532717612875
+
+Point 189:
+final x axis is -91.24840976846073
+final y axis is  -69.262200546925
+final Velocity in x axis is  -0.5893723233338841
+final velocity in y axis is  0.3878311675948089
+
+Point 190:
+final x axis is 171.7997267878148
+final y axis is  -105.20815492358494
+final Velocity in x axis is  -1.4608864829438053
+final velocity in y axis is  2.556789386663008
+
+Point 191:
+final x axis is 132.37360643181555
+final y axis is  -52.56467735586709
+final Velocity in x axis is  -2.4200800639085434
+final velocity in y axis is  -1.0360488142227986
+
+Point 192:
+final x axis is 23.624054386625247
+final y axis is  34.03326151983986
+final Velocity in x axis is  -3.122491691432823
+final velocity in y axis is  0.5513210290715511
+
+Point 193:
+final x axis is -27.766002318150974
+final y axis is  -142.14066165782975
+final Velocity in x axis is  0.7739591121984485
+final velocity in y axis is  0.9499436682215006
+
+Point 194:
+final x axis is 104.14354950417012
+final y axis is  -6.702584158727869
+final Velocity in x axis is  -3.045387547786661
+final velocity in y axis is  0.8617987509356156
+
+Point 195:
+final x axis is 59.00118182257144
+final y axis is  -58.92084913306791
+final Velocity in x axis is  -0.9242843900987041
+final velocity in y axis is  2.340189965425075
+
+Point 196:
+final x axis is 59.54209022433387
+final y axis is  -45.261811376930616
+final Velocity in x axis is  -2.914004048198696
+final velocity in y axis is  1.8044951019128561
+
+Point 197:
+final x axis is 9.183071523040404
+final y axis is  50.39537108292793
+final Velocity in x axis is  1.3612770939544117
+final velocity in y axis is  -3.19581829291733
+
+Point 198:
+final x axis is -144.55327037325202
+final y axis is  -51.717051476027606
+final Velocity in x axis is  -3.0435616622188473
+final velocity in y axis is  -1.1629538390537821
+
+Point 199:
+final x axis is 33.59671403501167
+final y axis is  28.678742684858285
+final Velocity in x axis is  -4.967795434922803
+final velocity in y axis is  -0.3843971085475727
+
+Point 200:
+final x axis is 121.98689401812572
+final y axis is  -5.209444989948114
+final Velocity in x axis is  -0.5299674066158948
+final velocity in y axis is  0.3149058474511702
+
+Point 201:
+final x axis is -11.237258980420414
+final y axis is  -98.37021481044613
+final Velocity in x axis is  -0.17507462194514892
+final velocity in y axis is  2.1433001184997984
+
+Point 202:
+final x axis is -64.25015472460078
+final y axis is  9.080194969695183
+final Velocity in x axis is  2.0898674574587783
+final velocity in y axis is  0.99685384776974
+
+Point 203:
+final x axis is 57.252557138965656
+final y axis is  119.15810081603236
+final Velocity in x axis is  -3.9741901228315752
+final velocity in y axis is  1.5025996366497185
+
+Point 204:
+final x axis is 14.279129116937488
+final y axis is  18.005755830212536
+final Velocity in x axis is  -0.26765221948758416
+final velocity in y axis is  -1.8615205240749948
+
+Point 205:
+final x axis is -132.0957470020659
+final y axis is  -66.20512916725924
+final Velocity in x axis is  5.510232865036192
+final velocity in y axis is  -1.2067167135785555
+
+Point 206:
+final x axis is 175.4110029870861
+final y axis is  -73.71328148805
+final Velocity in x axis is  0.6194828649487977
+final velocity in y axis is  3.649818989983745
+
+Point 207:
+final x axis is -135.70494875080846
+final y axis is  14.903795143702574
+final Velocity in x axis is  1.6752547760193783
+final velocity in y axis is  -2.420375254206447
+
+Point 208:
+final x axis is -8.74154890239975
+final y axis is  -124.4648139930229
+final Velocity in x axis is  1.4318598707836538
+final velocity in y axis is  1.559295335492813
+
+Point 209:
+final x axis is -112.52414484356888
+final y axis is  -153.63442899886294
+final Velocity in x axis is  0.7051553127033585
+final velocity in y axis is  1.3306328839476649
+
+Point 210:
+final x axis is -64.90823506011225
+final y axis is  -115.76006577967351
+final Velocity in x axis is  -0.6067436499595877
+final velocity in y axis is  -1.9186471695001317
+
+Point 211:
+final x axis is 135.80999186911114
+final y axis is  -230.40544838774974
+final Velocity in x axis is  -1.524505632604051
+final velocity in y axis is  1.2368848282686609
+
+Point 212:
+final x axis is 71.41123296685639
+final y axis is  144.2599625205921
+final Velocity in x axis is  -2.2775879639454675
+final velocity in y axis is  -2.660357727532123
+
+Point 213:
+final x axis is -28.93210572358262
+final y axis is  -21.595931292159463
+final Velocity in x axis is  0.7859744722975276
+final velocity in y axis is  -0.8628259233829376
+
+Point 214:
+final x axis is -43.61261541717652
+final y axis is  14.668399317941347
+final Velocity in x axis is  1.4532786843195165
+final velocity in y axis is  -0.8185095341566742
+
+Point 215:
+final x axis is -142.08895060036627
+final y axis is  -127.96086331374372
+final Velocity in x axis is  1.9683281420514491
+final velocity in y axis is  2.0275165279460183
+
+Point 216:
+final x axis is 10.037983154197903
+final y axis is  -25.988770609646032
+final Velocity in x axis is  2.4296078211265164
+final velocity in y axis is  1.147845418364677
+
+Point 217:
+final x axis is -189.55403937319863
+final y axis is  -136.66291703496208
+final Velocity in x axis is  0.7891604715983452
+final velocity in y axis is  2.630121374234141
+
+Point 218:
+final x axis is 131.83792376551358
+final y axis is  -2.986683930912622
+final Velocity in x axis is  -3.481613200919011
+final velocity in y axis is  1.0591065114243268
+
+Point 219:
+final x axis is 163.3083881666362
+final y axis is  3.7270408409631033
+final Velocity in x axis is  2.1174655568010197
+final velocity in y axis is  1.536944234169607
+
+Point 220:
+final x axis is -107.77799328816579
+final y axis is  97.03607097105635
+final Velocity in x axis is  1.206494712222517
+final velocity in y axis is  -4.619847333312089
+
+Point 221:
+final x axis is 57.58563967527745
+final y axis is  1.4767057185240589
+final Velocity in x axis is  -2.7633922040145396
+final velocity in y axis is  -1.5728019436852028
+
+Point 222:
+final x axis is 93.19004032777495
+final y axis is  43.048309072483335
+final Velocity in x axis is  -0.500553894452561
+final velocity in y axis is  -0.5809853677304149
+
+Point 223:
+final x axis is -133.89189117028397
+final y axis is  -87.42292986039226
+final Velocity in x axis is  2.5356841668634664
+final velocity in y axis is  -0.6938814700465984
+
+Point 224:
+final x axis is 6.515464689170587
+final y axis is  27.522436699360014
+final Velocity in x axis is  2.192261320746648
+final velocity in y axis is  3.294470435301792
+
+Point 225:
+final x axis is -39.96362458283912
+final y axis is  -79.54629579473374
+final Velocity in x axis is  0.5746914535979903
+final velocity in y axis is  0.8737731770715633
+
+Point 226:
+final x axis is -24.49445636224842
+final y axis is  -180.5390039732889
+final Velocity in x axis is  0.49444621332537386
+final velocity in y axis is  2.4941119129268143
+
+Point 227:
+final x axis is 1.3530341156070929
+final y axis is  -30.945751565538494
+final Velocity in x axis is  -0.4760455470586961
+final velocity in y axis is  0.1782164619787861
+
+Point 228:
+final x axis is -54.508186016095436
+final y axis is  -188.5376445035971
+final Velocity in x axis is  -3.5263910491804844
+final velocity in y axis is  2.069486214549234
+
+Point 229:
+final x axis is 138.70888632568855
+final y axis is  -103.80506563101243
+final Velocity in x axis is  -2.250106839950351
+final velocity in y axis is  1.2486853065316263
+
+Point 230:
+final x axis is 45.87780112326399
+final y axis is  117.15148035560611
+final Velocity in x axis is  4.169965568227226
+final velocity in y axis is  2.453205188143399
+
+Point 231:
+final x axis is 60.79908745542745
+final y axis is  64.37355751799782
+final Velocity in x axis is  -5.057525089392372
+final velocity in y axis is  0.3597696271110039
+
+Point 232:
+final x axis is 128.41718808830433
+final y axis is  19.466113951684036
+final Velocity in x axis is  -3.0684608866400715
+final velocity in y axis is  1.9611527235338497
+
+Point 233:
+final x axis is 126.36400662648366
+final y axis is  29.34346258858216
+final Velocity in x axis is  0.5201067108027931
+final velocity in y axis is  -2.3051593887457247
+
+Point 234:
+final x axis is 149.73765195498498
+final y axis is  48.80572948195236
+final Velocity in x axis is  -1.9415252686143287
+final velocity in y axis is  -1.3250788208145805
+
+Point 235:
+final x axis is 121.53060468158502
+final y axis is  39.11321459379149
+final Velocity in x axis is  -2.243793994757423
+final velocity in y axis is  -0.19836059035015308
+
+Point 236:
+final x axis is 111.845427025228
+final y axis is  -62.06500142390812
+final Velocity in x axis is  -2.080360954111208
+final velocity in y axis is  0.8170450270812207
+
+Point 237:
+final x axis is 156.00226768062763
+final y axis is  -85.70154626150905
+final Velocity in x axis is  0.5719024159814307
+final velocity in y axis is  1.9853396378109296
+
+Point 238:
+final x axis is 175.21419037287677
+final y axis is  -180.70219565725066
+final Velocity in x axis is  -2.0398913120448787
+final velocity in y axis is  0.5384482850963107
+
+Point 239:
+final x axis is -99.6352890166863
+final y axis is  157.27211954481407
+final Velocity in x axis is  4.275466061690974
+final velocity in y axis is  -1.2699876920535855
+
+Point 240:
+final x axis is 122.4655335756619
+final y axis is  -33.32314440770738
+final Velocity in x axis is  0.605163389723474
+final velocity in y axis is  0.28457788562266967
+
+Point 241:
+final x axis is 86.63818758921414
+final y axis is  -123.38678019186722
+final Velocity in x axis is  -4.253750371777142
+final velocity in y axis is  2.5285358249200955
+
+Point 242:
+final x axis is 137.30529500267627
+final y axis is  130.65252660429226
+final Velocity in x axis is  -5.902818410737912
+final velocity in y axis is  2.454334084114872
+
+Point 243:
+final x axis is 164.9123047246402
+final y axis is  -6.143493677236033
+final Velocity in x axis is  2.1839085107744522
+final velocity in y axis is  1.219572124614957
+
+Point 244:
+final x axis is 155.3080232375291
+final y axis is  151.33305499081374
+final Velocity in x axis is  -2.0376055602115564
+final velocity in y axis is  -2.2741134648087056
+
+Point 245:
+final x axis is 36.80611215034791
+final y axis is  87.99013969616549
+final Velocity in x axis is  0.3731366704113366
+final velocity in y axis is  0.09599802396043504
+
+Point 246:
+final x axis is 111.37865098263032
+final y axis is  -135.33561617582163
+final Velocity in x axis is  -1.6845597251396225
+final velocity in y axis is  1.647882508878265
+
+Point 247:
+final x axis is -185.09691531302266
+final y axis is  -156.5059272601367
+final Velocity in x axis is  1.602072949856948
+final velocity in y axis is  2.30717064276367
+
+Point 248:
+final x axis is 120.9552600726419
+final y axis is  -69.68796159127966
+final Velocity in x axis is  -3.734151590499045
+final velocity in y axis is  1.1379345643802694
+
+Point 249:
+final x axis is 176.21935360673797
+final y axis is  -138.4003905891871
+final Velocity in x axis is  -1.2623507422916012
+final velocity in y axis is  3.4307274918938697
+
+Point 250:
+final x axis is -96.37773712857678
+final y axis is  -158.21593508566846
+final Velocity in x axis is  -0.17409700061691713
+final velocity in y axis is  3.214100741970115
+
+Point 251:
+final x axis is 184.77018049809058
+final y axis is  -131.85287345201755
+final Velocity in x axis is  -3.576236405190081
+final velocity in y axis is  1.6392302632295732
+
+Point 252:
+final x axis is -118.25738991266984
+final y axis is  -31.747744267637938
+final Velocity in x axis is  -2.4490864860634005
+final velocity in y axis is  0.9794698032923491
+
+Point 253:
+final x axis is -67.34102278415625
+final y axis is  -21.66275938017724
+final Velocity in x axis is  2.8240743633863787
+final velocity in y axis is  0.332357439822474
+
+Point 254:
+final x axis is 155.14740874428026
+final y axis is  39.69785929069117
+final Velocity in x axis is  -3.781928797941576
+final velocity in y axis is  -0.6454198826067632
+
+Point 255:
+final x axis is -92.03238071282959
+final y axis is  -3.486402374579406
+final Velocity in x axis is  3.7728111422314963
+final velocity in y axis is  -2.6466981826419875
+
+Point 256:
+final x axis is 119.73984902033594
+final y axis is  157.18369526557038
+final Velocity in x axis is  -1.5245712492243813
+final velocity in y axis is  -1.9814365729762997
+
+Point 257:
+final x axis is 118.89723152019042
+final y axis is  125.54528912446776
+final Velocity in x axis is  0.8704926108792164
+final velocity in y axis is  -3.750816589821858
+
+Point 258:
+final x axis is -124.36442235068809
+final y axis is  2.754258347961498
+final Velocity in x axis is  0.06527697580437243
+final velocity in y axis is  1.4323324191552524
+
+Point 259:
+final x axis is -61.96125646992897
+final y axis is  93.31964300738508
+final Velocity in x axis is  1.7985935889782516
+final velocity in y axis is  -0.5584032302707131
+
+Point 260:
+final x axis is -93.33417699311768
+final y axis is  105.03264461753571
+final Velocity in x axis is  5.087343181814285
+final velocity in y axis is  -3.3219398786864303
+
+Point 261:
+final x axis is -86.12213751400851
+final y axis is  53.93647051727758
+final Velocity in x axis is  3.694747331938501
+final velocity in y axis is  -4.903152505543218
+
+Point 262:
+final x axis is 140.03846203812407
+final y axis is  46.03133752974285
+final Velocity in x axis is  0.16400367230028973
+final velocity in y axis is  0.5682467592720833
+
+Point 263:
+final x axis is -58.03172297325502
+final y axis is  -18.786200820023527
+final Velocity in x axis is  0.5027668634655845
+final velocity in y axis is  0.2903547547605051
+
+Point 264:
+final x axis is 5.692656915281312
+final y axis is  89.34151890783413
+final Velocity in x axis is  -3.1537736487065113
+final velocity in y axis is  -3.0025831531402436
+
+Point 265:
+final x axis is -129.7971746383982
+final y axis is  147.53113014884605
+final Velocity in x axis is  3.1130699222310785
+final velocity in y axis is  -2.743481624900908
+
+Point 266:
+final x axis is -113.656089657075
+final y axis is  -46.40854969979777
+final Velocity in x axis is  0.9945890866243572
+final velocity in y axis is  3.4366871189870074
+
+Point 267:
+final x axis is 136.18250010437913
+final y axis is  55.329695176936966
+final Velocity in x axis is  -0.8582291715823348
+final velocity in y axis is  -2.0311300839559654
+
+Point 268:
+final x axis is -163.98527475909026
+final y axis is  -102.21221705244461
+final Velocity in x axis is  1.1339772269009734
+final velocity in y axis is  1.9648668239262101
+
+Point 269:
+final x axis is -127.4722771781442
+final y axis is  -25.54072150198445
+final Velocity in x axis is  0.3000378212095736
+final velocity in y axis is  1.1791509838975536
+
+Point 270:
+final x axis is -104.40900483454116
+final y axis is  131.59768642283126
+final Velocity in x axis is  1.3887764764728985
+final velocity in y axis is  -3.507920860796205
+
+Point 271:
+final x axis is -34.215175738791956
+final y axis is  0.6803136830864691
+final Velocity in x axis is  2.416006975445917
+final velocity in y axis is  -5.511182158353366
+
+Point 272:
+final x axis is -14.41337635645472
+final y axis is  122.85801121135815
+final Velocity in x axis is  0.7327151238979751
+final velocity in y axis is  -2.3724369651192676
+
+Point 273:
+final x axis is -46.88000630676443
+final y axis is  -49.06181004076103
+final Velocity in x axis is  2.291792121136823
+final velocity in y axis is  2.764605102436679
+
+Point 274:
+final x axis is 76.10702750570084
+final y axis is  128.8292507310967
+final Velocity in x axis is  -2.7143145911499427
+final velocity in y axis is  -0.601370281452386
+
+Point 275:
+final x axis is 180.95273046091881
+final y axis is  24.4269260781698
+final Velocity in x axis is  -0.9679451761349174
+final velocity in y axis is  -1.3923181866824677
+
+Point 276:
+final x axis is 110.34536082554472
+final y axis is  35.22516450135317
+final Velocity in x axis is  -1.206847210499019
+final velocity in y axis is  -0.4659876958000684
+
+Point 277:
+final x axis is -127.28158527825627
+final y axis is  -75.05056440482372
+final Velocity in x axis is  3.9243319999320256
+final velocity in y axis is  -0.16579572960397482
+
+Point 278:
+final x axis is -39.56841959016597
+final y axis is  -147.38126006688378
+final Velocity in x axis is  0.6736922026506676
+final velocity in y axis is  4.435923005299743
+
+Point 279:
+final x axis is -29.199806961982333
+final y axis is  21.760507031518003
+final Velocity in x axis is  0.6222613630366012
+final velocity in y axis is  1.362276583887234
+
+Point 280:
+final x axis is -121.19009750183176
+final y axis is  -17.76034757044832
+final Velocity in x axis is  4.359943464463892
+final velocity in y axis is  2.9724436323652164
+
+Point 281:
+final x axis is -215.01413258413712
+final y axis is  113.39255490928684
+final Velocity in x axis is  1.4267959719724386
+final velocity in y axis is  -0.6304991781369255
+
+Point 282:
+final x axis is -68.4226268383881
+final y axis is  142.46103962775567
+final Velocity in x axis is  0.7209886500350494
+final velocity in y axis is  -0.18376805492940787
+
+Point 283:
+final x axis is -116.16731948793223
+final y axis is  -78.55150273588396
+final Velocity in x axis is  5.448836953060426
+final velocity in y axis is  0.8106030048299651
+
+Point 284:
+final x axis is 99.0325257109641
+final y axis is  102.63572980597081
+final Velocity in x axis is  2.3353767716987153
+final velocity in y axis is  -1.0853205812880289
+
+Point 285:
+final x axis is 54.26557633072737
+final y axis is  55.286445480881056
+final Velocity in x axis is  -4.686345729715698
+final velocity in y axis is  -2.7082288291501118
+
+Point 286:
+final x axis is -31.95558505957971
+final y axis is  149.28428850703693
+final Velocity in x axis is  1.680177071987867
+final velocity in y axis is  -3.115709308856494
+
+Point 287:
+final x axis is 36.573295578272536
+final y axis is  -114.4008239015994
+final Velocity in x axis is  -0.3914712719028775
+final velocity in y axis is  3.6893671616158192
+
+Point 288:
+final x axis is 53.73769843699756
+final y axis is  -113.90914417169992
+final Velocity in x axis is  -4.895832160290531
+final velocity in y axis is  1.6684703138041654
+
+Point 289:
+final x axis is 75.91715397783832
+final y axis is  98.35821408015856
+final Velocity in x axis is  -1.8298179625317639
+final velocity in y axis is  -1.699889332141187
+
+Point 290:
+final x axis is -54.900709074199526
+final y axis is  128.07255375001995
+final Velocity in x axis is  2.866630750807029
+final velocity in y axis is  -2.140039554672182
+
+Point 291:
+final x axis is -114.01672004569066
+final y axis is  -56.447311855077935
+final Velocity in x axis is  0.12771678660816138
+final velocity in y axis is  -0.14193977899731255
+
+Point 292:
+final x axis is -223.02894076921078
+final y axis is  203.30841194781343
+final Velocity in x axis is  1.094054676069231
+final velocity in y axis is  -1.447165792764885
+
+Point 293:
+final x axis is 88.06935729841096
+final y axis is  133.24806247789078
+final Velocity in x axis is  -1.7015897834765836
+final velocity in y axis is  -3.5309791466271863
+
+Point 294:
+final x axis is 147.43559882453854
+final y axis is  -80.43863164348345
+final Velocity in x axis is  -0.8010444467974949
+final velocity in y axis is  1.3914985439464338
+
+Point 295:
+final x axis is 6.654440062662456
+final y axis is  117.56203858700086
+final Velocity in x axis is  0.797528041136372
+final velocity in y axis is  -3.1183485750598967
+
+Point 296:
+final x axis is -53.445744296703445
+final y axis is  -132.28341985799162
+final Velocity in x axis is  0.945798038208643
+final velocity in y axis is  3.69989513926869
+
+Point 297:
+final x axis is 189.49566433801337
+final y axis is  -144.52916000993994
+final Velocity in x axis is  -2.045063936917611
+final velocity in y axis is  1.2887373749609057
+
+Point 298:
+final x axis is 129.44066553165692
+final y axis is  99.46804100520531
+final Velocity in x axis is  2.708266539682981
+final velocity in y axis is  -0.09452118966319671
+
+Point 299:
+final x axis is -102.52602618788701
+final y axis is  -188.75636241036503
+final Velocity in x axis is  1.4349810365395677
+final velocity in y axis is  -0.13000949525608282
+
+Point 300:
+final x axis is 42.107530710911924
+final y axis is  -156.77739994454217
+final Velocity in x axis is  -1.0409943594860884
+final velocity in y axis is  4.829632075040164
+
+Point 301:
+final x axis is -143.85466764904726
+final y axis is  113.5818406433645
+final Velocity in x axis is  3.814935918712571
+final velocity in y axis is  -3.5490252872192896
+
+Point 302:
+final x axis is 55.438912955589274
+final y axis is  31.168697719137974
+final Velocity in x axis is  2.70179641196379
+final velocity in y axis is  2.4905898662094654
+
+Point 303:
+final x axis is -23.19791708190954
+final y axis is  118.07974329894202
+final Velocity in x axis is  -0.6850314766895146
+final velocity in y axis is  -1.0900510651644204
+
+Point 304:
+final x axis is 59.48628633714371
+final y axis is  43.007904011144305
+final Velocity in x axis is  -1.0359737034899859
+final velocity in y axis is  0.23055900322856343
+
+Point 305:
+final x axis is -138.34617299309667
+final y axis is  -145.70013298840314
+final Velocity in x axis is  1.997325498535453
+final velocity in y axis is  2.34994238106175
+
+Point 306:
+final x axis is -51.0598979531417
+final y axis is  70.79482182739991
+final Velocity in x axis is  1.4373784786086756
+final velocity in y axis is  -3.9126188409694884
+
+Point 307:
+final x axis is -136.0116342176409
+final y axis is  28.30740159155779
+final Velocity in x axis is  4.326529337021444
+final velocity in y axis is  -2.4115884156096863
+
+Point 308:
+final x axis is -31.882751839267897
+final y axis is  137.81154251182008
+final Velocity in x axis is  -1.4813620983508762
+final velocity in y axis is  -1.330202733222511
+
+Point 309:
+final x axis is 143.9033225980129
+final y axis is  -28.157378847371948
+final Velocity in x axis is  -0.3049043295114283
+final velocity in y axis is  -1.0961374643303716
+
+Point 310:
+final x axis is -109.22610843751508
+final y axis is  116.79280388252424
+final Velocity in x axis is  0.28335675682425693
+final velocity in y axis is  -0.5490244964755352
+
+Point 311:
+final x axis is 171.49179531724104
+final y axis is  39.1596781459179
+final Velocity in x axis is  0.7135709537045698
+final velocity in y axis is  0.1537763572412278
+
+Point 312:
+final x axis is -164.96159031685966
+final y axis is  -168.74596643492998
+final Velocity in x axis is  2.1373868097823574
+final velocity in y axis is  1.1004680381632455
+
+Point 313:
+final x axis is 157.26858520846622
+final y axis is  21.604649331528588
+final Velocity in x axis is  1.3430640556362157
+final velocity in y axis is  0.592384687038896
+
+Point 314:
+final x axis is 120.71997064338923
+final y axis is  -23.44243867802974
+final Velocity in x axis is  -1.0323666973881944
+final velocity in y axis is  -1.6428412019331766
+
+Point 315:
+final x axis is 48.059690332750726
+final y axis is  -62.479403134608205
+final Velocity in x axis is  -4.2434764779443555
+final velocity in y axis is  0.37202439640891805
+
+Point 316:
+final x axis is 118.80908044874633
+final y axis is  22.79189098713117
+final Velocity in x axis is  -4.152767802631524
+final velocity in y axis is  -1.4344068990798058
+
+Point 317:
+final x axis is -93.89302578042677
+final y axis is  143.93338373274446
+final Velocity in x axis is  2.7232817846486093
+final velocity in y axis is  -1.804985378689485
+
+Point 318:
+final x axis is 144.9830195262665
+final y axis is  -48.7188025814976
+final Velocity in x axis is  -2.4487919710208264
+final velocity in y axis is  1.6991735974629567
+
+Point 319:
+final x axis is -98.41075174839857
+final y axis is  48.04933550334382
+final Velocity in x axis is  4.534498686437851
+final velocity in y axis is  0.08048018664262405
+
+Point 320:
+final x axis is 30.304543520988886
+final y axis is  -161.3731388802948
+final Velocity in x axis is  -1.522373462730863
+final velocity in y axis is  2.043436910266805
+
+Point 321:
+final x axis is -81.62540301894033
+final y axis is  -75.54709951871665
+final Velocity in x axis is  1.1527202146685052
+final velocity in y axis is  -2.2026931399563057
+
+Point 322:
+final x axis is -82.00656185006387
+final y axis is  146.08736378057645
+final Velocity in x axis is  0.4594654757225876
+final velocity in y axis is  0.24230367584880513
+
+Point 323:
+final x axis is -58.74313606872779
+final y axis is  139.94957423080893
+final Velocity in x axis is  3.252825931389082
+final velocity in y axis is  -1.6872088092389652
+
+Point 324:
+final x axis is 22.265700321624283
+final y axis is  136.86768265433003
+final Velocity in x axis is  0.9564696057830693
+final velocity in y axis is  -3.0935491049635586
+
+Point 325:
+final x axis is -42.31070828894726
+final y axis is  90.19263652022687
+final Velocity in x axis is  1.8813352946558
+final velocity in y axis is  -2.1025675862882314
+
+Point 326:
+final x axis is -74.53963870611628
+final y axis is  -159.6806720534044
+final Velocity in x axis is  2.089778685707049
+final velocity in y axis is  0.3682610009136578
+
+Point 327:
+final x axis is -4.649959573174077
+final y axis is  26.404504189996352
+final Velocity in x axis is  -0.7249550047204838
+final velocity in y axis is  0.9984176083681687
+
+Point 328:
+final x axis is -42.96747806957634
+final y axis is  -123.14887415267599
+final Velocity in x axis is  3.6057519102015014
+final velocity in y axis is  2.894407314304424
+
+Point 329:
+final x axis is 81.73057736412318
+final y axis is  164.98805713353514
+final Velocity in x axis is  -1.948203316048859
+final velocity in y axis is  -2.1847526904507255
+
+Point 330:
+final x axis is 153.65587559251696
+final y axis is  -101.46268586196142
+final Velocity in x axis is  -1.5003480031495533
+final velocity in y axis is  1.708078776197144
+
+Point 331:
+final x axis is 160.62363451974386
+final y axis is  -44.300559962064696
+final Velocity in x axis is  -1.248272430061699
+final velocity in y axis is  -0.950731683389096
+
+Point 332:
+final x axis is 23.44515012777773
+final y axis is  -114.8112995939228
+final Velocity in x axis is  -0.13738222956293902
+final velocity in y axis is  2.308915352392952
+
+Point 333:
+final x axis is 142.8375829312978
+final y axis is  62.793599823089174
+final Velocity in x axis is  0.23888467972535155
+final velocity in y axis is  -0.892145143967619
+
+Point 334:
+final x axis is -137.8554158311861
+final y axis is  167.26214693973674
+final Velocity in x axis is  0.8146123122674872
+final velocity in y axis is  -2.4995335646671117
+
+Point 335:
+final x axis is 137.66045395792656
+final y axis is  -11.104670799194373
+final Velocity in x axis is  -3.355440873692167
+final velocity in y axis is  0.6604484130636515
+
+Point 336:
+final x axis is 142.88931413540476
+final y axis is  -174.21197925642804
+final Velocity in x axis is  -0.7404997567880215
+final velocity in y axis is  0.7881802110198444
+
+Point 337:
+final x axis is -25.507010989676026
+final y axis is  -46.28125844589421
+final Velocity in x axis is  0.7652731318068111
+final velocity in y axis is  -0.7469638281987284
+
+Point 338:
+final x axis is -47.18297807960713
+final y axis is  24.449602707608836
+final Velocity in x axis is  2.643222302462625
+final velocity in y axis is  0.21197087469760456
+
+Point 339:
+final x axis is -11.678802791126571
+final y axis is  14.137766758946592
+final Velocity in x axis is  1.6249121097469863
+final velocity in y axis is  -0.999933318741966
+
+Point 340:
+final x axis is 2.651899774861127
+final y axis is  -113.77563622314027
+final Velocity in x axis is  -0.367630462210057
+final velocity in y axis is  3.669516827839068
+
+Point 341:
+final x axis is -10.922193849123389
+final y axis is  112.54534112210291
+final Velocity in x axis is  0.3896931377944323
+final velocity in y axis is  -2.4968216143843023
+
+Point 342:
+final x axis is -94.91310354644827
+final y axis is  6.199823751255529
+final Velocity in x axis is  0.7135444755833857
+final velocity in y axis is  0.9420828927011506
+
+Point 343:
+final x axis is -28.084690690845324
+final y axis is  -83.24978315785279
+final Velocity in x axis is  2.3073677497929617
+final velocity in y axis is  5.083773835527629
+
+Point 344:
+final x axis is 133.74253928153118
+final y axis is  178.9922761992478
+final Velocity in x axis is  -2.0217765106499925
+final velocity in y axis is  -2.435011725721997
+
+Point 345:
+final x axis is -132.4459372417458
+final y axis is  -124.51776728105199
+final Velocity in x axis is  1.1366878785276044
+final velocity in y axis is  1.7759991994522606
+
+Point 346:
+final x axis is -92.53552635122381
+final y axis is  128.89776013886495
+final Velocity in x axis is  2.7564396998510152
+final velocity in y axis is  1.5524355635639977
+
+Point 347:
+final x axis is 45.54106407826681
+final y axis is  -126.63158538242823
+final Velocity in x axis is  -0.8072904010403967
+final velocity in y axis is  4.946863518702697
+
+Point 348:
+final x axis is -122.71275218310639
+final y axis is  -140.3418137904876
+final Velocity in x axis is  -0.5540888637971012
+final velocity in y axis is  0.07526463006500156
+
+Point 349:
+final x axis is -128.50819607877833
+final y axis is  -148.24514318960638
+final Velocity in x axis is  2.154939920294763
+final velocity in y axis is  1.5344483174498942
+
+Point 350:
+final x axis is -138.7521844668764
+final y axis is  82.0452861024673
+final Velocity in x axis is  3.556883102917445
+final velocity in y axis is  -0.9441913167661917
+
+Point 351:
+final x axis is 117.47186537185308
+final y axis is  137.72658133580427
+final Velocity in x axis is  2.5988930228578884
+final velocity in y axis is  -0.7543362220652454
+
+Point 352:
+final x axis is -158.52064071448743
+final y axis is  27.278312387491876
+final Velocity in x axis is  0.19155179880661827
+final velocity in y axis is  -3.264239274958247
+
+Point 353:
+final x axis is -130.24580311833972
+final y axis is  -100.54497903532395
+final Velocity in x axis is  1.8136825402917693
+final velocity in y axis is  4.5347111291778495
+
+Point 354:
+final x axis is -114.34691258763219
+final y axis is  145.4684062312743
+final Velocity in x axis is  -0.5350746990544036
+final velocity in y axis is  -0.011790077864342248
+
+Point 355:
+final x axis is -53.07104817138059
+final y axis is  160.94150247892102
+final Velocity in x axis is  2.050449236838676
+final velocity in y axis is  -2.2374522169720743
+
+Point 356:
+final x axis is 45.5757334763925
+final y axis is  34.306688600549435
+final Velocity in x axis is  -6.071366086638356
+final velocity in y axis is  -1.6153614272516248
+
+Point 357:
+final x axis is -69.91083760072388
+final y axis is  130.3879151557478
+final Velocity in x axis is  0.7861999455861887
+final velocity in y axis is  -2.125234532172011
+
+Point 358:
+final x axis is 26.114155410364244
+final y axis is  67.78309020212706
+final Velocity in x axis is  -0.8104212414652661
+final velocity in y axis is  -1.44699094350155
+
+Point 359:
+final x axis is 95.96343732331455
+final y axis is  2.4991834138924736
+final Velocity in x axis is  -1.1871137272261683
+final velocity in y axis is  -3.561196361023287
+
+Point 360:
+final x axis is -1.9599034055879498
+final y axis is  -13.941560536546078
+final Velocity in x axis is  1.212389146931334
+final velocity in y axis is  -1.2610491544537166
+
+Point 361:
+final x axis is 170.37710491941016
+final y axis is  -127.54387589192736
+final Velocity in x axis is  0.4121851692120987
+final velocity in y axis is  0.3300292260133726
+
+Point 362:
+final x axis is 127.63086187482702
+final y axis is  145.8720515820004
+final Velocity in x axis is  -1.2227941259539634
+final velocity in y axis is  -0.41668279133784514
+
+Point 363:
+final x axis is -89.48511344877326
+final y axis is  -50.63125110034495
+final Velocity in x axis is  4.172569754768067
+final velocity in y axis is  -1.3345592159068826
+
+Point 364:
+final x axis is -119.59486851999826
+final y axis is  39.79487240789763
+final Velocity in x axis is  5.336520181612875
+final velocity in y axis is  -0.30755033383209723
+
+Point 365:
+final x axis is 133.19215907409716
+final y axis is  88.71771478062051
+final Velocity in x axis is  -3.830438956191149
+final velocity in y axis is  -1.2321705240199
+
+Point 366:
+final x axis is 67.0497857919636
+final y axis is  94.08840989262751
+final Velocity in x axis is  -3.23008777695197
+final velocity in y axis is  2.3521076462469046
+
+Point 367:
+final x axis is 3.096331745722711
+final y axis is  156.70182038647457
+final Velocity in x axis is  1.0978997285038758
+final velocity in y axis is  -1.9194893403607487
+
+Point 368:
+final x axis is 109.25031088180947
+final y axis is  -38.02473979512578
+final Velocity in x axis is  -1.4649074308430896
+final velocity in y axis is  -1.0523352999632933
+
+Point 369:
+final x axis is 44.735075962384926
+final y axis is  95.33468274531077
+final Velocity in x axis is  -3.418672207995955
+final velocity in y axis is  2.4530592872907113
+
+Point 370:
+final x axis is 150.6324732537337
+final y axis is  -38.09281193974147
+final Velocity in x axis is  -2.8248219784171247
+final velocity in y axis is  1.8197956899132954
+
+Point 371:
+final x axis is -150.38077052210005
+final y axis is  -34.416719955218376
+final Velocity in x axis is  -1.6227671122094611
+final velocity in y axis is  0.9610989166454864
+
+Point 372:
+final x axis is -52.14834199208757
+final y axis is  -145.37423393205157
+final Velocity in x axis is  -0.2061839512264703
+final velocity in y axis is  2.952685073527459
+
+Point 373:
+final x axis is 163.91024267200288
+final y axis is  -54.56610488364669
+final Velocity in x axis is  -2.367354612380118
+final velocity in y axis is  1.6628159897591344
+
+Point 374:
+final x axis is 105.99372637779526
+final y axis is  -72.99886726599247
+final Velocity in x axis is  -2.391090476774257
+final velocity in y axis is  0.6458818874681971
+
+Point 375:
+final x axis is 91.6638751553594
+final y axis is  151.62339973435854
+final Velocity in x axis is  -2.7214985700756134
+final velocity in y axis is  -3.3324019445506434
+
+Point 376:
+final x axis is -82.94282855748635
+final y axis is  -130.67697598023094
+final Velocity in x axis is  2.073181626183602
+final velocity in y axis is  2.034757941120456
+
+Point 377:
+final x axis is -78.82074835860983
+final y axis is  -96.85612011232342
+final Velocity in x axis is  1.7406708996940552
+final velocity in y axis is  -1.7800842232186054
+
+Point 378:
+final x axis is 69.72150692388975
+final y axis is  46.506702548421416
+final Velocity in x axis is  -1.481757692289091
+final velocity in y axis is  -0.5062611894248605
+
+Point 379:
+final x axis is -173.06747670193937
+final y axis is  -77.12007489859757
+final Velocity in x axis is  2.4486901085485817
+final velocity in y axis is  1.7659278954165978
+
+Point 380:
+final x axis is -123.92031493035911
+final y axis is  -59.63043342859165
+final Velocity in x axis is  4.471561126510724
+final velocity in y axis is  0.20910838298508277
+
+Point 381:
+final x axis is -165.81502772041952
+final y axis is  -86.13043348380997
+final Velocity in x axis is  2.1966465034851144
+final velocity in y axis is  0.6253201759962747
+
+Point 382:
+final x axis is 112.20956558158578
+final y axis is  81.99633532031879
+final Velocity in x axis is  -2.200089177388664
+final velocity in y axis is  0.20767695064538455
+
+Point 383:
+final x axis is -45.75594616624656
+final y axis is  -69.93120635187748
+final Velocity in x axis is  0.7363387950541637
+final velocity in y axis is  3.917733755422708
+
+Point 384:
+final x axis is 95.11683766451378
+final y axis is  -68.78816322710446
+final Velocity in x axis is  -1.566015244645228
+final velocity in y axis is  1.212513200851181
+
+Point 385:
+final x axis is -104.80624720791018
+final y axis is  15.472544514764966
+final Velocity in x axis is  -2.2908024386695627
+final velocity in y axis is  -0.25956933811085037
+
+Point 386:
+final x axis is -36.159171768451955
+final y axis is  -9.428986777292293
+final Velocity in x axis is  -0.7964903628694089
+final velocity in y axis is  0.6645794373302655
+
+Point 387:
+final x axis is -113.68145028009609
+final y axis is  -184.71947996131797
+final Velocity in x axis is  2.8747219313336467
+final velocity in y axis is  1.336011673780026
+
+Point 388:
+final x axis is -88.31558012561914
+final y axis is  -150.25577389255963
+final Velocity in x axis is  1.6147651606948024
+final velocity in y axis is  1.170414140263403
+
+Point 389:
+final x axis is -72.32740441918567
+final y axis is  119.64825529395378
+final Velocity in x axis is  1.9919297860266014
+final velocity in y axis is  -2.059726817523643
+
+Point 390:
+final x axis is -15.200967219398954
+final y axis is  -159.4743285993678
+final Velocity in x axis is  -0.6414933531078184
+final velocity in y axis is  1.4957656288805292
+
+Point 391:
+final x axis is 125.09469790133201
+final y axis is  -81.46383487959385
+final Velocity in x axis is  -1.189861462812757
+final velocity in y axis is  0.8173561224096145
+
+Point 392:
+final x axis is -103.49320206566424
+final y axis is  -105.27546703836411
+final Velocity in x axis is  4.55324126574497
+final velocity in y axis is  2.6341796820240506
+
+Point 393:
+final x axis is -153.45653113823025
+final y axis is  135.88230899829935
+final Velocity in x axis is  5.5822276261088355
+final velocity in y axis is  0.6588476268136764
+
+Point 394:
+final x axis is 86.97896237662943
+final y axis is  -87.67467995317888
+final Velocity in x axis is  3.0923759599586518
+final velocity in y axis is  -1.6486495074008614
+
+Point 395:
+final x axis is 145.3931781318292
+final y axis is  10.377721545933936
+final Velocity in x axis is  -2.619288717065877
+final velocity in y axis is  2.794107902672266
+
+Point 396:
+final x axis is -96.84241454828421
+final y axis is  -97.778287479231
+final Velocity in x axis is  3.8765752442221153
+final velocity in y axis is  2.308261182308866
+
+Point 397:
+final x axis is -7.532664037494573
+final y axis is  73.09463002191332
+final Velocity in x axis is  5.831789600490382
+final velocity in y axis is  -2.8894894353676603
+
+Point 398:
+final x axis is -222.07993096105818
+final y axis is  -16.535129442012433
+final Velocity in x axis is  2.2853601526727267
+final velocity in y axis is  -1.900122656655797
+
+Point 399:
+final x axis is -222.4352785510766
+final y axis is  166.78595487383726
+final Velocity in x axis is  1.668669947464436
+final velocity in y axis is  -1.1898964756771537
+
+Point 400:
+final x axis is -113.91114319905584
+final y axis is  -114.72326051472574
+final Velocity in x axis is  2.8949795121610125
+final velocity in y axis is  -0.8875072978025222
+
+Point 401:
+final x axis is 126.65299519662096
+final y axis is  -14.054076118041884
+final Velocity in x axis is  -1.0146492601129258
+final velocity in y axis is  -1.528883180458171
+
+Point 402:
+final x axis is 8.736050905382946
+final y axis is  -101.20534399203093
+final Velocity in x axis is  1.7186848458213784
+final velocity in y axis is  -0.5112566501803224
+
+Point 403:
+final x axis is -169.3814565642703
+final y axis is  -149.3612315198476
+final Velocity in x axis is  2.2726185231880027
+final velocity in y axis is  0.6948810067306884
+
+Point 404:
+final x axis is -115.33378747931904
+final y axis is  14.182682115466411
+final Velocity in x axis is  2.7380970749279245
+final velocity in y axis is  -2.1788173283754193
+
+Point 405:
+final x axis is 121.01820504667324
+final y axis is  -100.29653509773955
+final Velocity in x axis is  -4.556800392711739
+final velocity in y axis is  1.2254630921574972
+
+Point 406:
+final x axis is -42.03291759368154
+final y axis is  146.84059942512556
+final Velocity in x axis is  2.54461869093653
+final velocity in y axis is  -0.8054229446374979
+
+Point 407:
+final x axis is 47.55032738050464
+final y axis is  -136.42764892766314
+final Velocity in x axis is  -0.0822569276713175
+final velocity in y axis is  3.9923874092568576
+
+Point 408:
+final x axis is 148.6418498994106
+final y axis is  126.35988585646017
+final Velocity in x axis is  1.346729986065666
+final velocity in y axis is  -2.5091864546949445
+
+Point 409:
+final x axis is -174.2146713393186
+final y axis is  -95.95639462729011
+final Velocity in x axis is  0.8352958974450221
+final velocity in y axis is  3.5537596753597405
+
+Point 410:
+final x axis is -10.950997131210343
+final y axis is  101.78071432856754
+final Velocity in x axis is  0.2659255595713694
+final velocity in y axis is  -0.7127447701187909
+
+Point 411:
+final x axis is -161.8811591564009
+final y axis is  -63.239830917275775
+final Velocity in x axis is  3.076289634232282
+final velocity in y axis is  0.09546283847906123
+
+Point 412:
+final x axis is -82.90347485498114
+final y axis is  115.06026402609206
+final Velocity in x axis is  1.916207640044131
+final velocity in y axis is  -2.039504989250175
+
+Point 413:
+final x axis is -51.735168965803005
+final y axis is  -61.91566552712557
+final Velocity in x axis is  -0.21815678545551576
+final velocity in y axis is  4.999381638007975
+
+Point 414:
+final x axis is -110.634028192647
+final y axis is  85.54603997221642
+final Velocity in x axis is  2.6462901223114095
+final velocity in y axis is  -2.4434322269329805
+
+Point 415:
+final x axis is -109.56514519118093
+final y axis is  156.08976750170228
+final Velocity in x axis is  -0.2103532918435599
+final velocity in y axis is  0.19629709507168755
+
+Point 416:
+final x axis is 77.60118197703673
+final y axis is  -81.08254775475139
+final Velocity in x axis is  -0.8626368605971253
+final velocity in y axis is  -0.8617081736692878
+
+Point 417:
+final x axis is 107.17100910041552
+final y axis is  67.94428637385714
+final Velocity in x axis is  0.3985303696905371
+final velocity in y axis is  -0.9377433808344067
+
+Point 418:
+final x axis is -204.21906950554109
+final y axis is  152.3241186062468
+final Velocity in x axis is  1.2799861907834011
+final velocity in y axis is  -4.887696462448592
+
+Point 419:
+final x axis is 10.904260759033034
+final y axis is  103.95443879991952
+final Velocity in x axis is  0.0867509067222769
+final velocity in y axis is  -2.921354124936844
+
+Point 420:
+final x axis is 73.57822516012972
+final y axis is  118.90619275568002
+final Velocity in x axis is  -4.406000537186559
+final velocity in y axis is  1.0987807604197404
+
+Point 421:
+final x axis is -115.17187715610426
+final y axis is  -103.11808723454814
+final Velocity in x axis is  4.964537991427497
+final velocity in y axis is  4.291800865398733
+
+Point 422:
+final x axis is 36.87252605374804
+final y axis is  42.27394815293232
+final Velocity in x axis is  -1.7946374021288978
+final velocity in y axis is  -0.6642921970117764
+
+Point 423:
+final x axis is 59.390919540530604
+final y axis is  -12.52610529581112
+final Velocity in x axis is  -4.0128276983805256
+final velocity in y axis is  3.7267567744405157
+
+Point 424:
+final x axis is -15.017601411101829
+final y axis is  3.209390037588509
+final Velocity in x axis is  1.1565656349724562
+final velocity in y axis is  1.9488949835550966
+
+Point 425:
+final x axis is -111.23956859834166
+final y axis is  187.0147239929764
+final Velocity in x axis is  2.062224897956938
+final velocity in y axis is  0.08925137049569241
+
+Point 426:
+final x axis is 27.356485923468426
+final y axis is  -60.85773363262189
+final Velocity in x axis is  -1.0408077333368995
+final velocity in y axis is  1.3198835065126717
+
+Point 427:
+final x axis is -61.529021031912876
+final y axis is  -126.39609132783279
+final Velocity in x axis is  0.9869054187851571
+final velocity in y axis is  4.9915800281763465
+
+Point 428:
+final x axis is 84.66489280542571
+final y axis is  -5.571277839929258
+final Velocity in x axis is  -5.422354661788356
+final velocity in y axis is  0.8853931108288617
+
+Point 429:
+final x axis is -80.77088052445865
+final y axis is  130.15228374420278
+final Velocity in x axis is  -1.3505958977809465
+final velocity in y axis is  -2.322396400570501
+
+Point 430:
+final x axis is -26.933253421739163
+final y axis is  48.44410840991724
+final Velocity in x axis is  -1.4565814200771836
+final velocity in y axis is  0.22125782128177424
+
+Point 431:
+final x axis is 41.68596666433155
+final y axis is  125.831011764917
+final Velocity in x axis is  -4.204287219636932
+final velocity in y axis is  -4.126302516434155
+
+Point 432:
+final x axis is -113.14967652788468
+final y axis is  -6.820670057271985
+final Velocity in x axis is  -1.7371153642271626
+final velocity in y axis is  -0.5047443988212204
+
+Point 433:
+final x axis is 6.59837759384339
+final y axis is  143.46052157398591
+final Velocity in x axis is  0.07670028630353626
+final velocity in y axis is  -3.319961423186351
+
+Point 434:
+final x axis is 21.383477137431978
+final y axis is  76.7797037424595
+final Velocity in x axis is  -2.6419887289804214
+final velocity in y axis is  -2.6971743147950002
+
+Point 435:
+final x axis is 42.237945639875385
+final y axis is  14.452234184927276
+final Velocity in x axis is  -1.970390157708979
+final velocity in y axis is  -2.235982811258759
+
+Point 436:
+final x axis is 147.98326604793118
+final y axis is  -18.720725863966386
+final Velocity in x axis is  -1.4718708024652571
+final velocity in y axis is  -0.3380479938111704
+
+Point 437:
+final x axis is -86.95350557237748
+final y axis is  -173.89153155675064
+final Velocity in x axis is  3.0823956826380314
+final velocity in y axis is  0.3077385376912357
+
+Point 438:
+final x axis is -102.71450221224345
+final y axis is  -115.7778756489989
+final Velocity in x axis is  1.6651382667095203
+final velocity in y axis is  0.9224078347515585
+
+Point 439:
+final x axis is -50.434879847919724
+final y axis is  171.00019360266108
+final Velocity in x axis is  4.542176850820059
+final velocity in y axis is  -2.16157374913109
+
+Point 440:
+final x axis is -127.76680345560435
+final y axis is  -37.172380036226315
+final Velocity in x axis is  4.383521706176814
+final velocity in y axis is  2.571218242659531
+
+Point 441:
+final x axis is 119.39767333970029
+final y axis is  10.723046343475495
+final Velocity in x axis is  -2.194936673510067
+final velocity in y axis is  -0.7518912347263551
+
+Point 442:
+final x axis is 89.67051572239791
+final y axis is  123.13236848306776
+final Velocity in x axis is  -0.7112540666645769
+final velocity in y axis is  -3.9825308620886686
+
+Point 443:
+final x axis is 158.04432368186806
+final y axis is  56.140271620127365
+final Velocity in x axis is  -3.8983964163284903
+final velocity in y axis is  -0.6283887427817101
+
+Point 444:
+final x axis is 141.16467251946185
+final y axis is  -186.4319079654955
+final Velocity in x axis is  -2.123951495587658
+final velocity in y axis is  2.201136382537775
+
+Point 445:
+final x axis is -9.676651598706073
+final y axis is  152.374125613708
+final Velocity in x axis is  0.8994898410079403
+final velocity in y axis is  -1.9238497948309248
+
+Point 446:
+final x axis is 77.03253806704885
+final y axis is  -120.55204850885616
+final Velocity in x axis is  1.3930382568074149
+final velocity in y axis is  4.726417603551191
+
+Point 447:
+final x axis is 94.42563547487275
+final y axis is  25.5084441691333
+final Velocity in x axis is  -5.023198129893514
+final velocity in y axis is  -1.8797503437286727
+
+Point 448:
+final x axis is 141.73410290120327
+final y axis is  154.48284771484347
+final Velocity in x axis is  -0.5995833192424059
+final velocity in y axis is  -2.8653026331307747
+
+Point 449:
+final x axis is -153.6703339820659
+final y axis is  -172.6841402833096
+final Velocity in x axis is  2.230199124862648
+final velocity in y axis is  1.3577208859508565
+
+Point 450:
+final x axis is -55.9213829311318
+final y axis is  32.58800299476941
+final Velocity in x axis is  0.482083520541729
+final velocity in y axis is  -0.5408584215300487
+
+Point 451:
+final x axis is 134.48306630435383
+final y axis is  -147.6346122630939
+final Velocity in x axis is  -1.7148510613643444
+final velocity in y axis is  3.0542283279790885
+
+Point 452:
+final x axis is -118.74142976305355
+final y axis is  -163.98795052509743
+final Velocity in x axis is  1.3341502823897573
+final velocity in y axis is  1.8156612962989545
+
+Point 453:
+final x axis is -111.49908574481503
+final y axis is  -139.32751552778637
+final Velocity in x axis is  0.8126689357007174
+final velocity in y axis is  4.038775946858755
+
+Point 454:
+final x axis is -36.96641567997858
+final y axis is  30.643442712909582
+final Velocity in x axis is  2.1548333017623102
+final velocity in y axis is  2.130281266294632
+
+Point 455:
+final x axis is 30.208772031430268
+final y axis is  -106.6876637177519
+final Velocity in x axis is  -2.75949567726722
+final velocity in y axis is  5.276170362782528
+
+Point 456:
+final x axis is -107.62785360685957
+final y axis is  53.34592193520959
+final Velocity in x axis is  2.515398347310063
+final velocity in y axis is  -4.315014471290107
+
+Point 457:
+final x axis is 19.141009981698684
+final y axis is  96.92093716464143
+final Velocity in x axis is  0.5056325001725789
+final velocity in y axis is  -2.2129608940271397
+
+Point 458:
+final x axis is 153.2215282966197
+final y axis is  -72.07557383064778
+final Velocity in x axis is  1.3445037185308133
+final velocity in y axis is  1.30830277610215
+
+Point 459:
+final x axis is -212.66922952976975
+final y axis is  145.42234267629328
+final Velocity in x axis is  1.8595751095840647
+final velocity in y axis is  -1.2277241906360723
+
+Point 460:
+final x axis is -47.330630103697004
+final y axis is  -174.28203960597574
+final Velocity in x axis is  1.6290336477023986
+final velocity in y axis is  2.306886184515846
+
+Point 461:
+final x axis is 31.531070485803358
+final y axis is  -136.724654673213
+final Velocity in x axis is  0.9107885990302208
+final velocity in y axis is  1.2128629440887924
+
+Point 462:
+final x axis is 98.98920795078965
+final y axis is  -150.87191604871555
+final Velocity in x axis is  -4.192928391637083
+final velocity in y axis is  -0.1928270392170868
+
+Point 463:
+final x axis is 133.1033787382375
+final y axis is  -136.18428760697222
+final Velocity in x axis is  -4.505370467971317
+final velocity in y axis is  1.2891129290048984
+
+Point 464:
+final x axis is 102.34709808003072
+final y axis is  -21.416709008167935
+final Velocity in x axis is  -2.5237559300485817
+final velocity in y axis is  1.8470244018381243
+
+Point 465:
+final x axis is -79.84882181666431
+final y axis is  -50.08660506125902
+final Velocity in x axis is  3.192314692250947
+final velocity in y axis is  -0.22446491603486002
+
+Point 466:
+final x axis is 132.38078605966203
+final y axis is  66.3329664667341
+final Velocity in x axis is  -2.8201782459779245
+final velocity in y axis is  -0.6549011108919448
+
+Point 467:
+final x axis is -4.184396324596312
+final y axis is  139.09152046486025
+final Velocity in x axis is  1.4944171933705828
+final velocity in y axis is  -2.5647938537428145
+
+Point 468:
+final x axis is 109.6783646889143
+final y axis is  129.31379018859025
+final Velocity in x axis is  -2.2186085989353335
+final velocity in y axis is  -2.6616175417104326
+
+Point 469:
+final x axis is -140.85082896435873
+final y axis is  -155.38138799308211
+final Velocity in x axis is  2.0692119371569095
+final velocity in y axis is  1.6486678672956347
+
+Point 470:
+final x axis is -92.14650511306712
+final y axis is  178.6607840393279
+final Velocity in x axis is  2.211473232115704
+final velocity in y axis is  -0.8450567945096218
+
+Point 471:
+final x axis is 146.01716737459617
+final y axis is  164.3611966728234
+final Velocity in x axis is  -2.828053428588641
+final velocity in y axis is  -2.04932221822544
+
+Point 472:
+final x axis is 35.444279400233185
+final y axis is  -54.047366403645235
+final Velocity in x axis is  -3.2970038780711257
+final velocity in y axis is  2.2631807098554693
+
+Point 473:
+final x axis is 21.937291596378227
+final y axis is  -148.6499598154683
+final Velocity in x axis is  0.514509317649552
+final velocity in y axis is  3.6864406014431985
+
+Point 474:
+final x axis is -182.00530095071042
+final y axis is  -146.7267770845095
+final Velocity in x axis is  2.2347181852131457
+final velocity in y axis is  2.0823562044622594
+
+Point 475:
+final x axis is 54.49790102736045
+final y axis is  -92.55571105788081
+final Velocity in x axis is  1.1336796998548226
+final velocity in y axis is  3.5708065728901777
+
+Point 476:
+final x axis is 152.20009501515543
+final y axis is  -130.5995948143889
+final Velocity in x axis is  -2.0323846534008476
+final velocity in y axis is  2.9930187262734664
+
+Point 477:
+final x axis is 99.2322964580728
+final y axis is  83.78219879838598
+final Velocity in x axis is  -2.1036291560854017
+final velocity in y axis is  1.587606814704012
+
+Point 478:
+final x axis is -74.05181396046468
+final y axis is  -69.0171110981038
+final Velocity in x axis is  5.815096722899898
+final velocity in y axis is  5.761974274663764
+
+Point 479:
+final x axis is -54.628612738373704
+final y axis is  5.709989668251278
+final Velocity in x axis is  3.6616568508136207
+final velocity in y axis is  -1.582250858544924
+
+Point 480:
+final x axis is -33.618399566204005
+final y axis is  10.662490710159835
+final Velocity in x axis is  0.5927477802746749
+final velocity in y axis is  0.6014592119622336
+
+Point 481:
+final x axis is 150.2600246954598
+final y axis is  -58.54415055348504
+final Velocity in x axis is  0.5716541242265667
+final velocity in y axis is  2.5147547473160823
+
+Point 482:
+final x axis is -99.40191995852965
+final y axis is  -51.918476274140694
+final Velocity in x axis is  -2.4029310083252464
+final velocity in y axis is  -3.30088799709312
+
+Point 483:
+final x axis is -24.321750134924002
+final y axis is  -56.744681559608466
+final Velocity in x axis is  3.2971329842314003
+final velocity in y axis is  1.9222492888073741
+
+Point 484:
+final x axis is 88.49538367550572
+final y axis is  -33.40116772348721
+final Velocity in x axis is  -2.6525765768634377
+final velocity in y axis is  1.8044180659178846
+
+Point 485:
+final x axis is -181.44295427759295
+final y axis is  -130.4418033988806
+final Velocity in x axis is  1.5671131359135362
+final velocity in y axis is  1.1395026430482704
+
+Point 486:
+final x axis is -102.52290611817612
+final y axis is  37.13852299288572
+final Velocity in x axis is  5.288674753006467
+final velocity in y axis is  2.483937930460416
+
+Point 487:
+final x axis is -62.07188666794548
+final y axis is  -74.89954378708171
+final Velocity in x axis is  7.270668546601397
+final velocity in y axis is  -2.7781592756612263
+
+Point 488:
+final x axis is 97.71402148206832
+final y axis is  129.73449818324917
+final Velocity in x axis is  -1.9699713862437727
+final velocity in y axis is  -0.7549294490267731
+
+Point 489:
+final x axis is -71.69329724215018
+final y axis is  -105.93226308255532
+final Velocity in x axis is  -1.4686459961358058
+final velocity in y axis is  3.458898253919539
+
+Point 490:
+final x axis is 167.67402846297742
+final y axis is  22.607872803047766
+final Velocity in x axis is  0.11513087633656591
+final velocity in y axis is  1.3915367924939677
+
+Point 491:
+final x axis is -192.61220231759256
+final y axis is  -82.4278822768914
+final Velocity in x axis is  2.395948182963409
+final velocity in y axis is  0.3640094308377606
+
+Point 492:
+final x axis is 122.97456558772018
+final y axis is  -151.27647621561087
+final Velocity in x axis is  -0.7289834606277428
+final velocity in y axis is  2.7571925789298084
+
+Point 493:
+final x axis is -17.81678221589182
+final y axis is  85.94318345236962
+final Velocity in x axis is  1.069393835698428
+final velocity in y axis is  -2.127596839757217
+
+Point 494:
+final x axis is -187.70840814076422
+final y axis is  -97.6288258310133
+final Velocity in x axis is  1.44457477874059
+final velocity in y axis is  3.5709532010472187
+
+Point 495:
+final x axis is -92.43116704086374
+final y axis is  72.43103821305516
+final Velocity in x axis is  2.9760123168844275
+final velocity in y axis is  -1.4890424966845852
+
+Point 496:
+final x axis is -53.009448071849555
+final y axis is  98.15103533642923
+final Velocity in x axis is  -0.5056569844943289
+final velocity in y axis is  -4.05327803957534
+
+Point 497:
+final x axis is -120.53766017953004
+final y axis is  154.48588804087888
+final Velocity in x axis is  2.6889747656694807
+final velocity in y axis is  -2.7821391478799593
+
+Point 498:
+final x axis is 177.55699741316616
+final y axis is  -91.19399547023544
+final Velocity in x axis is  0.8518236241942474
+final velocity in y axis is  0.679517899162731
+
+Point 499:
+final x axis is 94.58453141751286
+final y axis is  93.6794277361752
+final Velocity in x axis is  0.2542823338792992
+final velocity in y axis is  -4.28006820219139
+
+Point 500:
+final x axis is -163.083740477351
+final y axis is  127.80725198594226
+final Velocity in x axis is  -0.1341972572898867
+final velocity in y axis is  -2.5203372750674924
+
+Point 501:
+final x axis is -44.652397134887
+final y axis is  78.62103535119681
+final Velocity in x axis is  1.7248849805032156
+final velocity in y axis is  -2.5069697379823963
+
+Point 502:
+final x axis is 95.25869252974994
+final y axis is  -47.03438634253505
+final Velocity in x axis is  -4.304283128750672
+final velocity in y axis is  -2.227071935341831
+
+Point 503:
+final x axis is 73.00663646525062
+final y axis is  -57.96485291894617
+final Velocity in x axis is  -5.3542730313984865
+final velocity in y axis is  -0.8357318270139412
+
+Point 504:
+final x axis is 95.20306782241019
+final y axis is  74.6298593924441
+final Velocity in x axis is  -3.0656689642778012
+final velocity in y axis is  -1.6097340586981517
+
+Point 505:
+final x axis is 50.38591675033709
+final y axis is  65.35994024566772
+final Velocity in x axis is  -4.053876786300548
+final velocity in y axis is  -3.2467566283832134
+
+Point 506:
+final x axis is -77.01352636776976
+final y axis is  -15.148443301674268
+final Velocity in x axis is  3.175461358942741
+final velocity in y axis is  0.7612263975146107
+
+Point 507:
+final x axis is -100.91995988010781
+final y axis is  -133.40153074074382
+final Velocity in x axis is  4.350764687930583
+final velocity in y axis is  3.5273794191698054
+
+Point 508:
+final x axis is 19.955765905645695
+final y axis is  -101.99887399118023
+final Velocity in x axis is  -0.25089566719716905
+final velocity in y axis is  -0.09081117035721667
+
+Point 509:
+final x axis is -210.71232030800377
+final y axis is  159.9292283369685
+final Velocity in x axis is  -0.045641704134949605
+final velocity in y axis is  -1.4611672890655782
+
+Point 510:
+final x axis is -46.40007764227091
+final y axis is  52.842950458372606
+final Velocity in x axis is  6.268896468508639
+final velocity in y axis is  -0.5898253456402875
+
+Point 511:
+final x axis is 89.94845037163049
+final y axis is  -106.00069335450746
+final Velocity in x axis is  -1.4292569400674735
+final velocity in y axis is  -2.0324131038740165
+
+Point 512:
+final x axis is 129.52619902978475
+final y axis is  -91.1597219787654
+final Velocity in x axis is  -2.1295989485118816
+final velocity in y axis is  3.1876831958982117
+
+Point 513:
+final x axis is -62.235569520512534
+final y axis is  121.27550863959786
+final Velocity in x axis is  0.05926484184355592
+final velocity in y axis is  -4.428443906776377
+
+Point 514:
+final x axis is 83.59083001952344
+final y axis is  91.41748603715595
+final Velocity in x axis is  -0.09093044862929116
+final velocity in y axis is  -2.957187189316014
+
+Point 515:
+final x axis is 144.67927225414425
+final y axis is  -123.87406701232852
+final Velocity in x axis is  -1.2856780612333734
+final velocity in y axis is  -1.0515495484888069
+
+Point 516:
+final x axis is 31.357405060115223
+final y axis is  97.99128000245622
+final Velocity in x axis is  3.2947937026603515
+final velocity in y axis is  -0.23383616693805778
+
+Point 517:
+final x axis is -54.56539420884197
+final y axis is  114.16704926176313
+final Velocity in x axis is  1.79269861196603
+final velocity in y axis is  -2.697291344860044
+
+Point 518:
+final x axis is -24.304693580267184
+final y axis is  -152.90964200223485
+final Velocity in x axis is  0.14731929428533436
+final velocity in y axis is  1.835413004646786
+
+Point 519:
+final x axis is 61.7420605751643
+final y axis is  -148.9645061241292
+final Velocity in x axis is  -0.9441171560566654
+final velocity in y axis is  4.143886793067639
+
+Point 520:
+final x axis is -121.3328194723842
+final y axis is  -90.46415820055262
+final Velocity in x axis is  2.9774233312091156
+final velocity in y axis is  3.1496471899739564
+
+Point 521:
+final x axis is 191.59867982985153
+final y axis is  -32.126609116192135
+final Velocity in x axis is  -1.9915590940730978
+final velocity in y axis is  4.256426926465895
+
+Point 522:
+final x axis is 53.76849937072524
+final y axis is  12.200941601333575
+final Velocity in x axis is  -5.644005385293053
+final velocity in y axis is  1.121342877654618
+
+Point 523:
+final x axis is 199.62532458895245
+final y axis is  -159.84192369562754
+final Velocity in x axis is  -1.7437748154768162
+final velocity in y axis is  3.048152857954434
+
+Point 524:
+final x axis is -123.02968080472017
+final y axis is  -49.6701738509377
+final Velocity in x axis is  3.653162003272673
+final velocity in y axis is  1.3943322459263046
+
+Point 525:
+final x axis is -48.13285579185001
+final y axis is  -26.428709637404232
+final Velocity in x axis is  4.08417531959087
+final velocity in y axis is  0.2564633650296938
+
+Point 526:
+final x axis is -143.38810452427688
+final y axis is  -169.2269153818768
+final Velocity in x axis is  1.2670707721949364
+final velocity in y axis is  1.3586462077620716
+
+Point 527:
+final x axis is -52.42783988539713
+final y axis is  -119.90826397652707
+final Velocity in x axis is  -2.144651680966946
+final velocity in y axis is  2.487713041348096
+
+Point 528:
+final x axis is -185.34363831057067
+final y axis is  117.75595941161718
+final Velocity in x axis is  0.8258214158328054
+final velocity in y axis is  -2.4619648733356025
+
+Point 529:
+final x axis is 130.41999161118835
+final y axis is  156.75602863549446
+final Velocity in x axis is  -1.327265929305917
+final velocity in y axis is  -2.9203632938288746
+
+Point 530:
+final x axis is 1.739569116481473
+final y axis is  -173.91070281112593
+final Velocity in x axis is  -0.7070697137465236
+final velocity in y axis is  1.2976888791656005
+
+Point 531:
+final x axis is -63.25208179582224
+final y axis is  -64.96943102537874
+final Velocity in x axis is  2.1266098103195006
+final velocity in y axis is  3.3988218208571706
+
+Point 532:
+final x axis is 150.76580022008457
+final y axis is  -192.27996939669544
+final Velocity in x axis is  -2.4402086198147455
+final velocity in y axis is  1.1480332500926889
+
+Point 533:
+final x axis is 116.88734964572947
+final y axis is  100.31852800252639
+final Velocity in x axis is  3.39468656249871
+final velocity in y axis is  -1.7049215103925184
+
+Point 534:
+final x axis is 98.85316847831797
+final y axis is  -36.658014898032974
+final Velocity in x axis is  -1.9238791138398847
+final velocity in y axis is  -0.40996166877178225
+
+Point 535:
+final x axis is 157.56808856104348
+final y axis is  103.93739159391004
+final Velocity in x axis is  -1.4957956101652792
+final velocity in y axis is  2.6001264775491433
+
+Point 536:
+final x axis is 170.41919303220888
+final y axis is  167.81138759451764
+final Velocity in x axis is  -3.924390617098854
+final velocity in y axis is  -2.872080659363476
+
+Point 537:
+final x axis is -45.46267421230904
+final y axis is  -37.78788326315855
+final Velocity in x axis is  2.0903336430095654
+final velocity in y axis is  -0.9399296333073012
+
+Point 538:
+final x axis is 173.67586787778114
+final y axis is  9.916614310968118
+final Velocity in x axis is  -0.7745752910926506
+final velocity in y axis is  2.8336732150918844
+
+Point 539:
+final x axis is 178.02044861431472
+final y axis is  87.92633841982222
+final Velocity in x axis is  -0.1024632687983951
+final velocity in y axis is  -0.9160103063010024
+
+Point 540:
+final x axis is 32.64856600029259
+final y axis is  17.97320372699602
+final Velocity in x axis is  -1.6308414709601455
+final velocity in y axis is  1.6645399311596236
+
+Point 541:
+final x axis is -133.15251218885786
+final y axis is  -110.11320992610871
+final Velocity in x axis is  2.0628771233636316
+final velocity in y axis is  1.2296347299882846
+
+Point 542:
+final x axis is 184.6820379074921
+final y axis is  171.8813235122051
+final Velocity in x axis is  -2.4779658537468605
+final velocity in y axis is  -3.009045237297515
+
+Point 543:
+final x axis is 78.28468328715425
+final y axis is  108.07391297264849
+final Velocity in x axis is  -3.578993971072788
+final velocity in y axis is  -2.3366656121040243
+
+Point 544:
+final x axis is -70.35691873309855
+final y axis is  109.22622032696648
+final Velocity in x axis is  -0.7358497746369606
+final velocity in y axis is  -2.0729173944607515
+
+Point 545:
+final x axis is -20.689258468699855
+final y axis is  -129.64093050326767
+final Velocity in x axis is  -0.23080367567750104
+final velocity in y axis is  5.524170885080393
+
+Point 546:
+final x axis is -1.981418988394687
+final y axis is  42.65184844355595
+final Velocity in x axis is  3.5384689123694706
+final velocity in y axis is  -2.0996709183834232
+
+Point 547:
+final x axis is -149.73939773207763
+final y axis is  105.27785181533923
+final Velocity in x axis is  3.183687690604153
+final velocity in y axis is  0.6267902174727478
+
+Point 548:
+final x axis is 165.6683420533389
+final y axis is  48.55139946087364
+final Velocity in x axis is  -1.4997644161299588
+final velocity in y axis is  -0.5374752789577089
+
+Point 549:
+final x axis is -62.21700497675849
+final y axis is  65.80249257865626
+final Velocity in x axis is  1.8429225552511883
+final velocity in y axis is  -0.8244485309808457
+
+Point 550:
+final x axis is -77.4486106301227
+final y axis is  -86.74834086289476
+final Velocity in x axis is  3.8958966028881323
+final velocity in y axis is  4.206658874478015
+
+Point 551:
+final x axis is -140.2963374538058
+final y axis is  -94.51942955940322
+final Velocity in x axis is  4.802197192898668
+final velocity in y axis is  1.2099207741555043
+
+Point 552:
+final x axis is -164.46476396271927
+final y axis is  117.3020640437138
+final Velocity in x axis is  2.6729909976381667
+final velocity in y axis is  0.30093356726042414
+
+Point 553:
+final x axis is 73.50143252919933
+final y axis is  -4.701444108689923
+final Velocity in x axis is  -5.663952343728224
+final velocity in y axis is  -0.19275806043155783
+
+Point 554:
+final x axis is 21.303848526471462
+final y axis is  57.79774242001049
+final Velocity in x axis is  -8.347955549908102
+final velocity in y axis is  1.9750908445418998
+
+Point 555:
+final x axis is -63.42906521852241
+final y axis is  -6.735308572705643
+final Velocity in x axis is  0.4252427506934611
+final velocity in y axis is  3.6637455070107867
+
+Point 556:
+final x axis is 135.83889905818674
+final y axis is  -83.00087382857068
+final Velocity in x axis is  -6.186636124560982
+final velocity in y axis is  3.400663977869
+
+Point 557:
+final x axis is -129.67951848480405
+final y axis is  -158.17630645586792
+final Velocity in x axis is  2.5878717333652372
+final velocity in y axis is  0.9493175534853063
+
+Point 558:
+final x axis is -24.41640105041377
+final y axis is  162.87684965480318
+final Velocity in x axis is  1.43388389170531
+final velocity in y axis is  -0.13235176852507108
+
+Point 559:
+final x axis is -45.85064196998629
+final y axis is  120.31911111908273
+final Velocity in x axis is  0.7341260095176105
+final velocity in y axis is  -2.9391986815095104
+
+Point 560:
+final x axis is 63.015428532023236
+final y axis is  -34.31850441059048
+final Velocity in x axis is  -1.7195071799271895
+final velocity in y axis is  -0.7863495568514369
+
+Point 561:
+final x axis is 60.03809159000609
+final y axis is  149.24406578562255
+final Velocity in x axis is  -1.2531336039904188
+final velocity in y axis is  -3.8063208327943006
+
+Point 562:
+final x axis is 85.41541828819959
+final y axis is  16.288835041999782
+final Velocity in x axis is  -3.2323557425437923
+final velocity in y axis is  -0.8649373700181234
+
+Point 563:
+final x axis is 163.39939341698167
+final y axis is  -151.17613346561345
+final Velocity in x axis is  -0.8898192199992062
+final velocity in y axis is  1.165404030861132
+
+Point 564:
+final x axis is -79.93308226771967
+final y axis is  -144.80213349856788
+final Velocity in x axis is  -1.6411910701573376
+final velocity in y axis is  2.737656740362622
+
+Point 565:
+final x axis is 155.82791828880374
+final y axis is  119.70347607212807
+final Velocity in x axis is  -2.3418176941887494
+final velocity in y axis is  -3.6396671364917585
+
+Point 566:
+final x axis is 105.35485839092358
+final y axis is  55.08597311723009
+final Velocity in x axis is  -5.0856987406600815
+final velocity in y axis is  -1.2464282920407668
+
+Point 567:
+final x axis is -103.28066407600747
+final y axis is  106.06579257882042
+final Velocity in x axis is  2.351398258545608
+final velocity in y axis is  -1.8732084884892253
+
+Point 568:
+final x axis is 66.21440309576539
+final y axis is  34.75356679789325
+final Velocity in x axis is  -0.8345593784174088
+final velocity in y axis is  1.155806568212496
+
+Point 569:
+final x axis is -61.04668926836882
+final y axis is  105.57661386680145
+final Velocity in x axis is  0.7768866708816571
+final velocity in y axis is  -3.75890057721139
+
+Point 570:
+final x axis is -63.59532225384441
+final y axis is  174.47925376581873
+final Velocity in x axis is  0.9691305594167571
+final velocity in y axis is  -3.093221488417427
+
+Point 571:
+final x axis is 111.47755430635699
+final y axis is  -27.260519380812156
+final Velocity in x axis is  -4.197799639987297
+final velocity in y axis is  -1.0333418169336233
+
+Point 572:
+final x axis is -19.533062658295417
+final y axis is  -119.46162044460719
+final Velocity in x axis is  0.6870716249158568
+final velocity in y axis is  1.8338873330560745
+
+Point 573:
+final x axis is 112.51511980693176
+final y axis is  147.6778752386464
+final Velocity in x axis is  -1.0584447154217693
+final velocity in y axis is  -4.018194864836796
+
+Point 574:
+final x axis is -36.656468934562525
+final y axis is  -164.55714405504
+final Velocity in x axis is  0.05300562017762872
+final velocity in y axis is  3.2646894969765787
+
+Point 575:
+final x axis is -147.70379638508936
+final y axis is  -60.77636489252733
+final Velocity in x axis is  1.9626489820481514
+final velocity in y axis is  0.5151816202996742
+
+Point 576:
+final x axis is 22.708557179672567
+final y axis is  24.075256455367267
+final Velocity in x axis is  0.005368285028172682
+final velocity in y axis is  -4.688947586789484
+
+Point 577:
+final x axis is 19.063371185015935
+final y axis is  -12.674692757306902
+final Velocity in x axis is  -1.5224947171510264
+final velocity in y axis is  -0.8867485673305358
+
+Point 578:
+final x axis is 65.87086949318326
+final y axis is  131.57060523430607
+final Velocity in x axis is  -4.67612177573633
+final velocity in y axis is  -1.9548125500699698
+
+Point 579:
+final x axis is 137.83483438849498
+final y axis is  143.53315081167406
+final Velocity in x axis is  -1.1517228375700237
+final velocity in y axis is  -4.806813985183286
+
+Point 580:
+final x axis is 139.752882696702
+final y axis is  -60.850597234735105
+final Velocity in x axis is  -0.8240868707601927
+final velocity in y axis is  -0.5365340255752571
+
+Point 581:
+final x axis is 128.94934349416712
+final y axis is  120.13573361096185
+final Velocity in x axis is  -3.2570921349427246
+final velocity in y axis is  -3.6226600439216643
+
+Point 582:
+final x axis is 144.58096396329745
+final y axis is  22.614474365793463
+final Velocity in x axis is  -0.3734393040264553
+final velocity in y axis is  0.025325635212371807
+
+Point 583:
+final x axis is -115.2218198019497
+final y axis is  103.71360396106752
+final Velocity in x axis is  0.4809712074417723
+final velocity in y axis is  -3.5700059050704467
+
+Point 584:
+final x axis is 131.8003520503604
+final y axis is  76.31610707281824
+final Velocity in x axis is  -0.3562601372178023
+final velocity in y axis is  0.14090228363595855
+
+Point 585:
+final x axis is -222.16958823390584
+final y axis is  238.0072073862966
+final Velocity in x axis is  1.2773975787774452
+final velocity in y axis is  -0.849390859483249
+
+Point 586:
+final x axis is 76.96904526432724
+final y axis is  10.124697284119616
+final Velocity in x axis is  -0.016916366365197492
+final velocity in y axis is  4.323755124264006
+
+Point 587:
+final x axis is 41.727795101088454
+final y axis is  105.88264869291713
+final Velocity in x axis is  -1.7651485030319507
+final velocity in y axis is  -1.1080103518227449
+
+Point 588:
+final x axis is 160.56658757937004
+final y axis is  31.293544877646212
+final Velocity in x axis is  -0.46203168827710217
+final velocity in y axis is  -0.7149722873574565
+
+Point 589:
+final x axis is 57.93506103300888
+final y axis is  161.6237149064034
+final Velocity in x axis is  -1.5381326278887484
+final velocity in y axis is  -2.6366901844956843
+
+Point 590:
+final x axis is -76.9591862333663
+final y axis is  -40.836249824907746
+final Velocity in x axis is  4.8736798237402565
+final velocity in y axis is  2.7078593090795597
+
+Point 591:
+final x axis is 29.87482020928031
+final y axis is  -125.90149012882442
+final Velocity in x axis is  0.2360598344872579
+final velocity in y axis is  3.49610771015688
+
+Point 592:
+final x axis is -3.3891714116288236
+final y axis is  83.84566447912957
+final Velocity in x axis is  0.818841019056864
+final velocity in y axis is  -3.4277574807490785
+
+Point 593:
+final x axis is 111.36984731311911
+final y axis is  -17.10509721246984
+final Velocity in x axis is  0.5993722907262776
+final velocity in y axis is  0.3148814441855597
+
+Point 594:
+final x axis is -98.11573124420235
+final y axis is  -24.272511320475363
+final Velocity in x axis is  3.2776867629685054
+final velocity in y axis is  5.368498160979401
+
+Point 595:
+final x axis is -69.48477386741357
+final y axis is  -93.78330759876387
+final Velocity in x axis is  2.8547195634548883
+final velocity in y axis is  1.1103052608952044
+
+Point 596:
+final x axis is 80.09004331014444
+final y axis is  -107.6775386693895
+final Velocity in x axis is  -3.251659337696098
+final velocity in y axis is  -1.1678468700419729
+
+Point 597:
+final x axis is -104.90671404491972
+final y axis is  143.27229086942134
+final Velocity in x axis is  1.612239832171877
+final velocity in y axis is  0.40995561274865544
+
+Point 598:
+final x axis is -197.29610669185112
+final y axis is  55.42787911671412
+final Velocity in x axis is  1.9301593865568571
+final velocity in y axis is  -3.660914016945621
+
+Point 599:
+final x axis is 74.19530067749129
+final y axis is  -15.05002145325952
+final Velocity in x axis is  -5.119766696860805
+final velocity in y axis is  2.5272699747682656
+
+Point 600:
+final x axis is -98.9621925479017
+final y axis is  -40.27811752601928
+final Velocity in x axis is  -0.661783316021626
+final velocity in y axis is  2.092301537661723
+
+Point 601:
+final x axis is -179.25239095127492
+final y axis is  156.64641125806796
+final Velocity in x axis is  2.9603491354545963
+final velocity in y axis is  -1.7592724276600988
+
+Point 602:
+final x axis is -14.32195022007545
+final y axis is  -8.668324757910849
+final Velocity in x axis is  0.20735679333536136
+final velocity in y axis is  -0.41265800638284145
+
+Point 603:
+final x axis is 34.90615678133651
+final y axis is  5.729132779615419
+final Velocity in x axis is  -5.726177248900455
+final velocity in y axis is  2.099995610465922
+
+Point 604:
+final x axis is 76.07531729439008
+final y axis is  -36.95633318192016
+final Velocity in x axis is  -2.405226009090294
+final velocity in y axis is  0.5308826846176106
+
+Point 605:
+final x axis is -82.85639634435366
+final y axis is  44.313062014215056
+final Velocity in x axis is  2.8545441338673254
+final velocity in y axis is  2.0165251767388823
+
+Point 606:
+final x axis is 51.19720815856761
+final y axis is  -146.24127675249233
+final Velocity in x axis is  0.20635242710224475
+final velocity in y axis is  3.3115974448816337
+
+Point 607:
+final x axis is 53.12475853035032
+final y axis is  -32.843836001080255
+final Velocity in x axis is  -4.361751382933211
+final velocity in y axis is  -0.25237610181869147
+
+Point 608:
+final x axis is -55.79941194214131
+final y axis is  58.13343138174088
+final Velocity in x axis is  2.750445547708606
+final velocity in y axis is  -5.96072099203367
+
+Point 609:
+final x axis is 61.86537444798995
+final y axis is  20.295087786049216
+final Velocity in x axis is  2.7680608742465553
+final velocity in y axis is  -0.5957331830811967
+
+Point 610:
+final x axis is -43.0724421444261
+final y axis is  110.71277957529051
+final Velocity in x axis is  0.9676143267158978
+final velocity in y axis is  -7.677646763591271
+
+Point 611:
+final x axis is -92.97042762935658
+final y axis is  -115.58785062453047
+final Velocity in x axis is  -2.7388496312343955
+final velocity in y axis is  3.5548794375760533
+
+Point 612:
+final x axis is 79.12001242795941
+final y axis is  45.57934309064462
+final Velocity in x axis is  -1.0364507251264268
+final velocity in y axis is  0.3000126408409056
+
+Point 613:
+final x axis is -129.22411021060492
+final y axis is  -9.939532271884156
+final Velocity in x axis is  4.295559946311069
+final velocity in y axis is  0.6437504504764097
+
+Point 614:
+final x axis is -75.44521064816718
+final y axis is  24.86360303802328
+final Velocity in x axis is  0.013814685598108473
+final velocity in y axis is  1.4972516049655458
+
+Point 615:
+final x axis is 91.62334425457799
+final y axis is  -78.52133849016948
+final Velocity in x axis is  1.26631597118535
+final velocity in y axis is  -0.6862925608262479
+
+Point 616:
+final x axis is -82.46119803965075
+final y axis is  -6.31194253741802
+final Velocity in x axis is  -0.9428325016072269
+final velocity in y axis is  -0.21900573507637724
+
+Point 617:
+final x axis is -65.25149893556136
+final y axis is  19.86742807357149
+final Velocity in x axis is  3.6560599927762643
+final velocity in y axis is  1.310802523386749
+
+Point 618:
+final x axis is -188.16771062254656
+final y axis is  -179.62417650452304
+final Velocity in x axis is  2.3724786972471232
+final velocity in y axis is  0.7649909833692264
+
+Point 619:
+final x axis is -37.60023364431837
+final y axis is  57.39462683261408
+final Velocity in x axis is  0.5344976306416978
+final velocity in y axis is  -3.5145328812741217
+
+Point 620:
+final x axis is -138.7282876753767
+final y axis is  -78.67025776293957
+final Velocity in x axis is  -3.7814021237740527
+final velocity in y axis is  4.326339932096071
+
+Point 621:
+final x axis is 123.03500196999012
+final y axis is  -113.50069558296912
+final Velocity in x axis is  -2.790935214753317
+final velocity in y axis is  2.895440399272579
+
+Point 622:
+final x axis is -156.75364103019618
+final y axis is  -91.76250003361106
+final Velocity in x axis is  1.0033280517096286
+final velocity in y axis is  0.1538537730537142
+
+Point 623:
+final x axis is -156.15308067621217
+final y axis is  -194.67112029420986
+final Velocity in x axis is  2.9518537670517926
+final velocity in y axis is  1.3151910333723411
+
+Point 624:
+final x axis is -24.742319936675635
+final y axis is  5.53959380515083
+final Velocity in x axis is  0.788830446367612
+final velocity in y axis is  1.5165913816919308
+
+Point 625:
+final x axis is 59.51475758961663
+final y axis is  85.06669652297273
+final Velocity in x axis is  -1.6493605775389721
+final velocity in y axis is  -2.1594025597790973
+
+Point 626:
+final x axis is 123.22297272613335
+final y axis is  -44.221063411367346
+final Velocity in x axis is  0.09151527748191382
+final velocity in y axis is  0.09819645798893983
+
+Point 627:
+final x axis is -136.75338182618188
+final y axis is  120.69519703882361
+final Velocity in x axis is  1.7170674341538108
+final velocity in y axis is  -1.9880311145398546
+
+Point 628:
+final x axis is 165.20123403823607
+final y axis is  -161.8712102787576
+final Velocity in x axis is  -0.16455663192897074
+final velocity in y axis is  2.5746838755689114
+
+Point 629:
+final x axis is 119.56553375966794
+final y axis is  115.56764550902882
+final Velocity in x axis is  -0.6154609802371124
+final velocity in y axis is  -5.747165250261014
+
+Point 630:
+final x axis is -165.8440479533158
+final y axis is  138.26175462618468
+final Velocity in x axis is  2.7295495997483505
+final velocity in y axis is  -2.72838585252719
+
+Point 631:
+final x axis is -102.71715953994145
+final y axis is  -166.21687413651466
+final Velocity in x axis is  2.4436954859092372
+final velocity in y axis is  2.2114625990885477
+
+Point 632:
+final x axis is 52.91967802029439
+final y axis is  -102.43038635076853
+final Velocity in x axis is  1.1699159760036246
+final velocity in y axis is  0.6695949656727095
+
+Point 633:
+final x axis is -22.355936399388415
+final y axis is  106.88838199027086
+final Velocity in x axis is  4.456085602270009
+final velocity in y axis is  -3.890471140693173
+
+Point 634:
+final x axis is -0.7699489891978143
+final y axis is  -133.19164167886075
+final Velocity in x axis is  -2.079506982201425
+final velocity in y axis is  3.4122077997702407
+
+Point 635:
+final x axis is 18.074711453570053
+final y axis is  -158.49995728899432
+final Velocity in x axis is  -1.1327305693200402
+final velocity in y axis is  2.7656732021900967
+
+Point 636:
+final x axis is 67.66421715263554
+final y axis is  105.63577688243069
+final Velocity in x axis is  -2.5943371442799656
+final velocity in y axis is  -5.492364999743604
+
+Point 637:
+final x axis is 84.87500521964601
+final y axis is  -71.14164200117932
+final Velocity in x axis is  -2.3627868655425077
+final velocity in y axis is  1.3160913509275862
+
+Point 638:
+final x axis is -182.10395546186695
+final y axis is  -87.88977847073788
+final Velocity in x axis is  -1.5161495421911335
+final velocity in y axis is  0.3665875620793108
+
+Point 639:
+final x axis is 103.76231435217628
+final y axis is  139.9030044817955
+final Velocity in x axis is  -2.419094051152693
+final velocity in y axis is  -0.5515599850585141
+
+Point 640:
+final x axis is -140.04767388284063
+final y axis is  -7.986669544398085
+final Velocity in x axis is  3.7471713584734063
+final velocity in y axis is  0.7646873298002312
+
+Point 641:
+final x axis is -84.86349108448877
+final y axis is  97.6579796611039
+final Velocity in x axis is  -0.4863349800679281
+final velocity in y axis is  -2.1499546546727393
+
+Point 642:
+final x axis is -20.074642564081476
+final y axis is  142.11789092190537
+final Velocity in x axis is  -0.006153027832509964
+final velocity in y axis is  -2.280662109142013
+
+Point 643:
+final x axis is 86.98575957439662
+final y axis is  -61.52402931227234
+final Velocity in x axis is  -5.826165267461013
+final velocity in y axis is  0.750113790391604
+
+Point 644:
+final x axis is -31.65743797942256
+final y axis is  -132.22700230074008
+final Velocity in x axis is  0.012259914988930835
+final velocity in y axis is  2.275521930771203
+
+Point 645:
+final x axis is -72.75334592447817
+final y axis is  -133.55272338494603
+final Velocity in x axis is  1.3957727364817483
+final velocity in y axis is  -1.494684424477082
+
+Point 646:
+final x axis is -156.8320799826648
+final y axis is  145.68769177421777
+final Velocity in x axis is  2.674008342179874
+final velocity in y axis is  -0.8588821275905376
+
+Point 647:
+final x axis is -129.58317959107242
+final y axis is  77.9134881330681
+final Velocity in x axis is  0.9720463284218631
+final velocity in y axis is  -0.7203874216933802
+
+Point 648:
+final x axis is 71.07362050367283
+final y axis is  67.48775982608925
+final Velocity in x axis is  -1.8434101309072852
+final velocity in y axis is  -1.7145027322055213
+
+Point 649:
+final x axis is 155.79027020695005
+final y axis is  11.71452371269582
+final Velocity in x axis is  -2.2100277117371436
+final velocity in y axis is  0.9818031673823795
+
+Point 650:
+final x axis is 162.29757730997835
+final y axis is  -67.57068005341756
+final Velocity in x axis is  -0.11458280974523448
+final velocity in y axis is  1.8904073914169197
+
+Point 651:
+final x axis is -109.09650670849787
+final y axis is  75.28151914157675
+final Velocity in x axis is  0.7702943426827843
+final velocity in y axis is  -3.3544140321997
+
+Point 652:
+final x axis is 164.76725570318953
+final y axis is  156.80759617279443
+final Velocity in x axis is  -1.0898377792065999
+final velocity in y axis is  -3.7822631482345646
+
+Point 653:
+final x axis is -112.73321823397974
+final y axis is  -128.58162575027131
+final Velocity in x axis is  2.9669948098629138
+final velocity in y axis is  2.8483317562260413
+
+Point 654:
+final x axis is -32.835201950392815
+final y axis is  -61.99074086023506
+final Velocity in x axis is  -0.7815536712220855
+final velocity in y axis is  2.053990178851357
+
+Point 655:
+final x axis is 72.53744455354297
+final y axis is  24.71930175755822
+final Velocity in x axis is  -4.985223558555748
+final velocity in y axis is  -1.1375730899805496
+
+Point 656:
+final x axis is -57.421169670482676
+final y axis is  -54.18340944660043
+final Velocity in x axis is  2.505069163810174
+final velocity in y axis is  3.2670396174523333
+
+Point 657:
+final x axis is 104.88743567011656
+final y axis is  -127.72876901247024
+final Velocity in x axis is  -3.0672140155234247
+final velocity in y axis is  4.11482608390342
+
+Point 658:
+final x axis is 166.11505078008108
+final y axis is  137.44491129808534
+final Velocity in x axis is  -3.2129379388238934
+final velocity in y axis is  -1.2151450882970387
+
+Point 659:
+final x axis is 83.89654802273103
+final y axis is  -46.09787928718417
+final Velocity in x axis is  -4.655042710431576
+final velocity in y axis is  -0.5724569490553105
+
+Point 660:
+final x axis is -67.85152744250976
+final y axis is  188.3593073268811
+final Velocity in x axis is  1.2141578632549583
+final velocity in y axis is  -0.3297933900157658
+
+Point 661:
+final x axis is 31.717761254721957
+final y axis is  -87.20918358427043
+final Velocity in x axis is  -0.10206016069692322
+final velocity in y axis is  1.4011309144513044
+
+Point 662:
+final x axis is 132.56938416227632
+final y axis is  -31.522439005801544
+final Velocity in x axis is  -3.225688142262446
+final velocity in y axis is  -0.6981658825566744
+
+Point 663:
+final x axis is -140.35651254819243
+final y axis is  -41.061385440009346
+final Velocity in x axis is  2.6841808877734854
+final velocity in y axis is  -1.2643699750171873
+
+Point 664:
+final x axis is -39.212692994693604
+final y axis is  70.22999138353923
+final Velocity in x axis is  3.270344727091022
+final velocity in y axis is  -3.7627626718661653
+
+Point 665:
+final x axis is -173.33408781008856
+final y axis is  168.5722350827413
+final Velocity in x axis is  3.6036544999142275
+final velocity in y axis is  -1.968062246627041
+
+Point 666:
+final x axis is 137.0747633232827
+final y axis is  -157.6091466257343
+final Velocity in x axis is  -2.836718237378408
+final velocity in y axis is  4.8742638738393405
+
+Point 667:
+final x axis is -119.40455313453455
+final y axis is  -176.5191084015947
+final Velocity in x axis is  1.4632056253505623
+final velocity in y axis is  3.571391930362741
+
+Point 668:
+final x axis is -148.6805272802613
+final y axis is  -147.48498626568065
+final Velocity in x axis is  2.30764539693799
+final velocity in y axis is  1.7668649256045206
+
+Point 669:
+final x axis is -71.922960973276
+final y axis is  -169.74155778108656
+final Velocity in x axis is  2.086595535714176
+final velocity in y axis is  2.0747854646309727
+
+Point 670:
+final x axis is -57.9009079784638
+final y axis is  -166.4596552723592
+final Velocity in x axis is  -2.173220620321904
+final velocity in y axis is  3.8113785105391287
+
+Point 671:
+final x axis is -67.2380667212058
+final y axis is  30.936369263198387
+final Velocity in x axis is  3.279104672344869
+final velocity in y axis is  -1.4356761789316026
+
+Point 672:
+final x axis is 78.98412901071595
+final y axis is  35.58026634841896
+final Velocity in x axis is  -3.04333786677278
+final velocity in y axis is  -5.536693513234359
+
+Point 673:
+final x axis is 45.11937804565764
+final y axis is  -81.87129425952011
+final Velocity in x axis is  -0.057281256182555404
+final velocity in y axis is  0.04674736372288456
+
+Point 674:
+final x axis is -127.19834927955588
+final y axis is  126.75330436228084
+final Velocity in x axis is  0.37634607850465895
+final velocity in y axis is  -1.0070723791880092
+
+Point 675:
+final x axis is 13.09840068308051
+final y axis is  40.75816647042598
+final Velocity in x axis is  -5.0783409536457045
+final velocity in y axis is  -3.796311614273054
+
+Point 676:
+final x axis is 198.23253971746638
+final y axis is  -89.83756635209744
+final Velocity in x axis is  -1.578602347163333
+final velocity in y axis is  2.7590609085119087
+
+Point 677:
+final x axis is 102.37742673355966
+final y axis is  152.09467033536782
+final Velocity in x axis is  -0.9905922006342718
+final velocity in y axis is  -1.3660249368407222
+
+Point 678:
+final x axis is -143.68042464752384
+final y axis is  -104.37856815515644
+final Velocity in x axis is  2.002367044825363
+final velocity in y axis is  3.1024102977606973
+
+Point 679:
+final x axis is 81.01658308194543
+final y axis is  141.4783713992087
+final Velocity in x axis is  -1.2362312499551698
+final velocity in y axis is  -3.044805844527983
+
+Point 680:
+final x axis is -33.78470220279659
+final y axis is  -39.91714873458698
+final Velocity in x axis is  -0.034791422266702766
+final velocity in y axis is  -0.013690005857555185
+
+Point 681:
+final x axis is -105.245032916651
+final y axis is  -74.77702855853647
+final Velocity in x axis is  3.9648082087362173
+final velocity in y axis is  1.7003074744712063
+
+Point 682:
+final x axis is -31.79172961888607
+final y axis is  90.27774850377521
+final Velocity in x axis is  1.0715239151497857
+final velocity in y axis is  -4.458858359822455
+
+Point 683:
+final x axis is 44.70434867602111
+final y axis is  3.7302742065950705
+final Velocity in x axis is  2.005806741775464
+final velocity in y axis is  -1.6872238359675862
+
+Point 684:
+final x axis is -121.60124379411128
+final y axis is  138.58547961923608
+final Velocity in x axis is  -2.1949526768923606
+final velocity in y axis is  -4.445024650558971
+
+Point 685:
+final x axis is 162.57831938408222
+final y axis is  65.05334533082356
+final Velocity in x axis is  1.7550086621687935
+final velocity in y axis is  -1.9858064538425706
+
+Point 686:
+final x axis is -87.03488063769807
+final y axis is  -91.2537438819547
+final Velocity in x axis is  1.940812476660731
+final velocity in y axis is  -3.0286864511192793
+
+Point 687:
+final x axis is 107.18808088870583
+final y axis is  -96.57618202367645
+final Velocity in x axis is  -0.4552543728291211
+final velocity in y axis is  4.821189638220755
+
+Point 688:
+final x axis is 95.59499336066311
+final y axis is  -11.891243702512615
+final Velocity in x axis is  -3.5623757295455296
+final velocity in y axis is  -0.5951083391854756
+
+Point 689:
+final x axis is 158.0215226592453
+final y axis is  -118.35647078677559
+final Velocity in x axis is  -1.6155967112684892
+final velocity in y axis is  1.2602666569031713
+
+Point 690:
+final x axis is -171.70525746872048
+final y axis is  107.65394405517982
+final Velocity in x axis is  2.189135708171268
+final velocity in y axis is  -1.4625596985644969
+
+Point 691:
+final x axis is 80.47252054150401
+final y axis is  -95.33593409023393
+final Velocity in x axis is  -0.3682430089859002
+final velocity in y axis is  0.9269953126994924
+
+Point 692:
+final x axis is 25.321942390787108
+final y axis is  8.634138458771169
+final Velocity in x axis is  -0.9267787382970151
+final velocity in y axis is  -1.3017351003514794
+
+Point 693:
+final x axis is 115.9003216975665
+final y axis is  -91.62729369428722
+final Velocity in x axis is  -3.9685068043112506
+final velocity in y axis is  -0.09515640990915206
+
+Point 694:
+final x axis is -48.65948784553046
+final y axis is  136.30392571799172
+final Velocity in x axis is  1.4327953050448956
+final velocity in y axis is  -3.109304455901769
+
+Point 695:
+final x axis is 125.95164459380857
+final y axis is  49.68648720143485
+final Velocity in x axis is  -1.215882036329119
+final velocity in y axis is  -6.586795396550405
+
+Point 696:
+final x axis is -54.156804686499484
+final y axis is  15.698853325454067
+final Velocity in x axis is  1.4865327241353097
+final velocity in y axis is  3.4838264474924467
+
+Point 697:
+final x axis is 99.92793453137263
+final y axis is  15.077496917532107
+final Velocity in x axis is  -3.0906824957660652
+final velocity in y axis is  -1.290150697732042
+
+Point 698:
+final x axis is -181.8687772705816
+final y axis is  141.1113865999065
+final Velocity in x axis is  1.8749617213992265
+final velocity in y axis is  -2.5658591532027235
+
+Point 699:
+final x axis is 13.862536765603728
+final y axis is  -136.18898669364577
+final Velocity in x axis is  -0.721286626420969
+final velocity in y axis is  2.731000900973194
+
+Point 700:
+final x axis is 168.35506013429375
+final y axis is  -25.568173343346352
+final Velocity in x axis is  -2.399653866994216
+final velocity in y axis is  1.8130484356712875
+
+Point 701:
+final x axis is -17.13364549456005
+final y axis is  -144.64076373933787
+final Velocity in x axis is  -0.4668060478968893
+final velocity in y axis is  1.7290789247651972
+
+Point 702:
+final x axis is 14.60466042956899
+final y axis is  68.13864831337251
+final Velocity in x axis is  1.6958968456205041
+final velocity in y axis is  -2.960573989566484
+
+Point 703:
+final x axis is -27.85845652349243
+final y axis is  -101.45694939489991
+final Velocity in x axis is  1.3567320810505006
+final velocity in y axis is  0.11342238251518202
+
+Point 704:
+final x axis is -35.13774964189976
+final y axis is  -50.91368429112595
+final Velocity in x axis is  0.9860025661461178
+final velocity in y axis is  -1.3608894123168802
+
+Point 705:
+final x axis is 167.00373475914967
+final y axis is  -83.75417967014752
+final Velocity in x axis is  -3.0551840863648234
+final velocity in y axis is  1.603076672017832
+
+Point 706:
+final x axis is 49.50477871025767
+final y axis is  23.11971947600781
+final Velocity in x axis is  1.0876835480782407
+final velocity in y axis is  -1.7181198978482077
+
+Point 707:
+final x axis is -64.37054064939083
+final y axis is  46.81922312679048
+final Velocity in x axis is  3.354687001582546
+final velocity in y axis is  -2.511968752285715
+
+Point 708:
+final x axis is -52.172242523854365
+final y axis is  -10.68271460339482
+final Velocity in x axis is  1.4746288199268913
+final velocity in y axis is  1.0765474557491954
+
+Point 709:
+final x axis is 57.43265488221779
+final y axis is  74.6470997172975
+final Velocity in x axis is  -0.5304866606076044
+final velocity in y axis is  -0.688980649793313
+
+Point 710:
+final x axis is -123.53286861010875
+final y axis is  -111.99885230113163
+final Velocity in x axis is  1.1512691788900886
+final velocity in y axis is  0.7578990455818051
+
+Point 711:
+final x axis is -83.13975266221951
+final y axis is  -117.42028880643578
+final Velocity in x axis is  1.3636753688245091
+final velocity in y axis is  4.666771753360995
+
+Point 712:
+final x axis is 74.08228308257608
+final y axis is  -216.91285756555982
+final Velocity in x axis is  -0.9360792936028108
+final velocity in y axis is  2.2827133084593747
+
+Point 713:
+final x axis is 77.85585510992334
+final y axis is  76.19725407947502
+final Velocity in x axis is  0.9090099124097587
+final velocity in y axis is  -1.2516673852443962
+
+Point 714:
+final x axis is -151.05152838843134
+final y axis is  -44.467801960071
+final Velocity in x axis is  0.8242491313172214
+final velocity in y axis is  2.274888612234559
+
+Point 715:
+final x axis is -57.582843544271086
+final y axis is  -29.699448312243863
+final Velocity in x axis is  0.8956874533784726
+final velocity in y axis is  -2.8270617861799057
+
+Point 716:
+final x axis is -3.9543687891083374
+final y axis is  -3.7072339660492872
+final Velocity in x axis is  0.6741767558074866
+final velocity in y axis is  -1.0369973593776374
+
+Point 717:
+final x axis is 155.60395841577022
+final y axis is  -177.31452034717807
+final Velocity in x axis is  -1.3078333994517422
+final velocity in y axis is  1.654510741394238
+
+Point 718:
+final x axis is 140.26193754637737
+final y axis is  120.90304895625131
+final Velocity in x axis is  -1.4151607586515762
+final velocity in y axis is  -4.257812013526681
+
+Point 719:
+final x axis is -64.6969693302543
+final y axis is  -180.7663349530669
+final Velocity in x axis is  -0.009196666510654775
+final velocity in y axis is  2.3726685417783298
+
+Point 720:
+final x axis is 82.48149255596738
+final y axis is  25.775667851996698
+final Velocity in x axis is  -2.841763461961633
+final velocity in y axis is  -0.2633348804377302
+
+Point 721:
+final x axis is -4.1708540851204985
+final y axis is  6.607317666074763
+final Velocity in x axis is  0.4813504260228451
+final velocity in y axis is  -1.0611710079867227
+
+Point 722:
+final x axis is -12.048941756765807
+final y axis is  36.74838353767762
+final Velocity in x axis is  -0.5790412694911597
+final velocity in y axis is  2.5143545309488764
+
+Point 723:
+final x axis is -80.55154271388051
+final y axis is  75.17208222936064
+final Velocity in x axis is  1.1708968678984812
+final velocity in y axis is  -0.5608386217270096
+
+Point 724:
+final x axis is 110.77347825764092
+final y axis is  17.43767550519463
+final Velocity in x axis is  -0.7557870004316608
+final velocity in y axis is  -1.1196493615642302
+
+Point 725:
+final x axis is 115.49753627411229
+final y axis is  -120.07234764949432
+final Velocity in x axis is  -3.048774473037513
+final velocity in y axis is  1.7389751729311058
+
+Point 726:
+final x axis is 41.5662502897546
+final y axis is  55.28500719103164
+final Velocity in x axis is  -2.0430786948725004
+final velocity in y axis is  -2.9710743099517463
+
+Point 727:
+final x axis is -61.741897642416085
+final y axis is  80.39415887669328
+final Velocity in x axis is  0.6399390746109305
+final velocity in y axis is  -2.1044969390513337
+
+Point 728:
+final x axis is -32.77483229458204
+final y axis is  -112.46327021178325
+final Velocity in x axis is  -2.1816089833524797
+final velocity in y axis is  6.039580337404895
+
+Point 729:
+final x axis is 57.55412239362179
+final y axis is  -134.70883031614582
+final Velocity in x axis is  -0.6091212785783577
+final velocity in y axis is  4.310000644815853
+
+Point 730:
+final x axis is -17.880695874105278
+final y axis is  -66.75594815366131
+final Velocity in x axis is  2.371164521059769
+final velocity in y axis is  -0.5230070202857084
+
+Point 731:
+final x axis is -112.01785334936385
+final y axis is  4.002714824574216
+final Velocity in x axis is  -2.063483976467322
+final velocity in y axis is  0.7651237381859461
+
+Point 732:
+final x axis is 135.0237985500841
+final y axis is  -42.922246037145285
+final Velocity in x axis is  -2.96120500901535
+final velocity in y axis is  -0.036390038118252206
+
+Point 733:
+final x axis is 78.5466279458796
+final y axis is  59.14971798761652
+final Velocity in x axis is  -2.1137745161738506
+final velocity in y axis is  1.320146979155959
+
+Point 734:
+final x axis is 65.43209524101756
+final y axis is  -85.39425705180948
+final Velocity in x axis is  -4.776826338921818
+final velocity in y axis is  0.5561795151559175
+
+Point 735:
+final x axis is 68.6151605715691
+final y axis is  158.39079295367245
+final Velocity in x axis is  -2.9553034527117608
+final velocity in y axis is  -3.175688105483686
+
+Point 736:
+final x axis is 30.533432545977288
+final y axis is  53.94874530038534
+final Velocity in x axis is  -4.01176809938058
+final velocity in y axis is  2.2304766713495017
+
+Point 737:
+final x axis is 65.16111938252784
+final y axis is  9.683402649547627
+final Velocity in x axis is  -1.8313580409463197
+final velocity in y axis is  -0.8671677005123521
+
+Point 738:
+final x axis is 105.44500982137183
+final y axis is  26.4930215954593
+final Velocity in x axis is  -3.9301859941768744
+final velocity in y axis is  -2.487278356880185
+
+Point 739:
+final x axis is -72.982054061252
+final y axis is  -123.55533909763501
+final Velocity in x axis is  0.9041541971614362
+final velocity in y axis is  1.5621873138414482
+
+Point 740:
+final x axis is 55.02838600840681
+final y axis is  136.4766501500549
+final Velocity in x axis is  -4.183119147774907
+final velocity in y axis is  -2.2138362463636483
+
+Point 741:
+final x axis is -96.87326797432496
+final y axis is  -13.239649866745744
+final Velocity in x axis is  -1.0020785435228803
+final velocity in y axis is  -0.4091768677116777
+
+Point 742:
+final x axis is -148.2113231020071
+final y axis is  -84.78502753363087
+final Velocity in x axis is  -0.8210317482548004
+final velocity in y axis is  -0.2897641201818894
+
+Point 743:
+final x axis is 141.2342512692264
+final y axis is  81.45091499376915
+final Velocity in x axis is  -1.8577742261060757
+final velocity in y axis is  -0.7476691128652073
+
+Point 744:
+final x axis is 145.10327013562105
+final y axis is  -92.18183902577186
+final Velocity in x axis is  1.715159549382351
+final velocity in y axis is  0.6069299239305325
+
+Point 745:
+final x axis is -19.87745496834663
+final y axis is  76.07692236785499
+final Velocity in x axis is  0.5138940671796332
+final velocity in y axis is  0.9345718312167682
+
+Point 746:
+final x axis is -96.67864396707304
+final y axis is  94.79732067207428
+final Velocity in x axis is  0.8590052277981232
+final velocity in y axis is  -2.113020132264615
+
+Point 747:
+final x axis is 184.33015588024455
+final y axis is  142.59234348538564
+final Velocity in x axis is  -0.9370943698618208
+final velocity in y axis is  -3.3426094450991988
+
+Point 748:
+final x axis is -98.32803396572315
+final y axis is  60.23888189128433
+final Velocity in x axis is  1.311045061083199
+final velocity in y axis is  -0.2012543444671569
+
+Point 749:
+final x axis is 131.52947772353446
+final y axis is  38.963088343666364
+final Velocity in x axis is  2.6857793869048856
+final velocity in y axis is  1.2650908979020425
+
+Point 750:
+final x axis is 46.67030474752478
+final y axis is  46.18917785136699
+final Velocity in x axis is  -2.962866551657064
+final velocity in y axis is  -1.827703849299522
+
+Point 751:
+final x axis is -52.26933623285928
+final y axis is  44.746543625906455
+final Velocity in x axis is  -3.2384985501895445
+final velocity in y axis is  -4.006619290157589
+
+Point 752:
+final x axis is 26.046367696484733
+final y axis is  85.62602793018272
+final Velocity in x axis is  -1.3335132149240285
+final velocity in y axis is  -0.39840083825530703
+
+Point 753:
+final x axis is 68.06607632434623
+final y axis is  -95.74723183014078
+final Velocity in x axis is  -3.2157585051439215
+final velocity in y axis is  -0.8253024887272896
+
+Point 754:
+final x axis is -188.81806430356218
+final y axis is  -121.62652461769953
+final Velocity in x axis is  1.2476933364308382
+final velocity in y axis is  1.537823325200948
+
+Point 755:
+final x axis is -73.74931701918472
+final y axis is  -29.138383424009977
+final Velocity in x axis is  3.030465801129321
+final velocity in y axis is  -0.5804874875695573
+
+Point 756:
+final x axis is 153.5398007754482
+final y axis is  -147.65394308726303
+final Velocity in x axis is  -2.522815959659643
+final velocity in y axis is  3.5262493043832657
+
+Point 757:
+final x axis is 136.41248269963856
+final y axis is  -21.532628465891673
+final Velocity in x axis is  -3.484592208242566
+final velocity in y axis is  1.6408441052587301
+
+Point 758:
+final x axis is -92.94127355695328
+final y axis is  32.26009421954877
+final Velocity in x axis is  2.446907964957035
+final velocity in y axis is  1.0900872160853259
+
+Point 759:
+final x axis is 148.44975393834522
+final y axis is  -165.14881812346522
+final Velocity in x axis is  -2.506008333255746
+final velocity in y axis is  3.9413088819926343
+
+Point 760:
+final x axis is -21.524611989875613
+final y axis is  15.350251019458286
+final Velocity in x axis is  1.517301479015024
+final velocity in y axis is  2.1885799702114954
+
+Point 761:
+final x axis is -16.98960755936749
+final y axis is  28.054142833222613
+final Velocity in x axis is  -2.3784947937190677
+final velocity in y axis is  -2.3411326674485484
+
+Point 762:
+final x axis is 64.58710110804279
+final y axis is  -106.02153623575114
+final Velocity in x axis is  -4.469693913835987
+final velocity in y axis is  2.7472134952985354
+
+Point 763:
+final x axis is 89.18427879556837
+final y axis is  83.03792322935979
+final Velocity in x axis is  -1.3682284720804834
+final velocity in y axis is  0.4948825759581242
+
+Point 764:
+final x axis is 177.29512768471955
+final y axis is  -165.4340543078595
+final Velocity in x axis is  -1.2141645845790043
+final velocity in y axis is  2.099064990097697
+
+Point 765:
+final x axis is -105.44496791251076
+final y axis is  175.9892385782129
+final Velocity in x axis is  2.1491796618303534
+final velocity in y axis is  -0.6460733063172576
+
+Point 766:
+final x axis is 2.241473866730569
+final y axis is  62.41635383981654
+final Velocity in x axis is  3.432774074947532
+final velocity in y axis is  -4.704467544906818
+
+Point 767:
+final x axis is 170.50036343881106
+final y axis is  -116.98040543974373
+final Velocity in x axis is  -2.726657904871622
+final velocity in y axis is  1.4087969158290268
+
+Point 768:
+final x axis is 74.00725967656008
+final y axis is  86.8987435385641
+final Velocity in x axis is  0.630834222742618
+final velocity in y axis is  -2.799434639445616
+
+Point 769:
+final x axis is -73.88161771658166
+final y axis is  95.9201803931254
+final Velocity in x axis is  1.1084338857258187
+final velocity in y axis is  -3.0518641057451474
+
+Point 770:
+final x axis is 140.03706402386936
+final y axis is  -73.50492241084233
+final Velocity in x axis is  -2.6119869747870164
+final velocity in y axis is  0.08090747601705107
+
+Point 771:
+final x axis is 119.09304559501766
+final y axis is  68.24562894901462
+final Velocity in x axis is  -0.12778239990391954
+final velocity in y axis is  0.27920360855893067
+
+Point 772:
+final x axis is -7.445379149465172
+final y axis is  -41.025598838546614
+final Velocity in x axis is  1.1415370758651928
+final velocity in y axis is  2.17460754477917
+
+Point 773:
+final x axis is -134.55327285743806
+final y axis is  -51.71000280842535
+final Velocity in x axis is  3.847774488508439
+final velocity in y axis is  -0.8183282480600728
+
+Point 774:
+final x axis is 100.3504006594437
+final y axis is  35.542609422644794
+final Velocity in x axis is  -1.9843349973576816
+final velocity in y axis is  -0.6539679071720002
+
+Point 775:
+final x axis is -165.3074384202502
+final y axis is  -2.5360799427026177
+final Velocity in x axis is  4.4549336329976486
+final velocity in y axis is  -1.1411750675410348
+
+Point 776:
+final x axis is 27.65723872600536
+final y axis is  -1.6146356655675305
+final Velocity in x axis is  0.571807734923702
+final velocity in y axis is  -1.040672122518519
+
+Point 777:
+final x axis is 109.84732127118998
+final y axis is  -51.36412373791778
+final Velocity in x axis is  -4.4169254880333435
+final velocity in y axis is  -1.676163390836377
+
+Point 778:
+final x axis is 4.740310482712361
+final y axis is  74.18761757507325
+final Velocity in x axis is  1.0580196436908151
+final velocity in y axis is  -3.1044234827425794
+
+Point 779:
+final x axis is 122.72183914715511
+final y axis is  92.06146473712283
+final Velocity in x axis is  -4.830798559011665
+final velocity in y axis is  -1.2163453921524148
+
+Point 780:
+final x axis is 127.02047565492742
+final y axis is  -61.545428558980404
+final Velocity in x axis is  -3.4607770074847877
+final velocity in y axis is  -1.0800233650308086
+
+Point 781:
+final x axis is 26.91786761079451
+final y axis is  112.05979230666796
+final Velocity in x axis is  2.210284482728582
+final velocity in y axis is  -1.0989223887757849
+
+Point 782:
+final x axis is -52.67314135038762
+final y axis is  88.03685100376507
+final Velocity in x axis is  0.26876272081592345
+final velocity in y axis is  -1.5120454871860214
+
+Point 783:
+final x axis is 91.41062280605163
+final y axis is  161.62019238238173
+final Velocity in x axis is  -2.8836555147445364
+final velocity in y axis is  -1.7263993106629256
+
+Point 784:
+final x axis is 56.31491942548921
+final y axis is  96.38282491611274
+final Velocity in x axis is  0.9014558902075266
+final velocity in y axis is  0.7622031416207005
+
+Point 785:
+final x axis is -102.03174539025945
+final y axis is  -3.3736812684448707
+final Velocity in x axis is  1.6127550527989687
+final velocity in y axis is  -1.1898942838887965
+
+Point 786:
+final x axis is 98.14332968848379
+final y axis is  113.50395950924619
+final Velocity in x axis is  -1.22024560771406
+final velocity in y axis is  -1.639969961359058
+
+Point 787:
+final x axis is -142.16209760143195
+final y axis is  -17.890746480689444
+final Velocity in x axis is  2.9003376879482574
+final velocity in y axis is  2.5530577537112285
+
+Point 788:
+final x axis is 86.03877416595658
+final y axis is  -15.476450731261638
+final Velocity in x axis is  -3.0805382476896797
+final velocity in y axis is  0.22405898324852097
+
+Point 789:
+final x axis is -83.45384158967644
+final y axis is  -62.99764095296442
+final Velocity in x axis is  2.954220015938253
+final velocity in y axis is  0.5316030804348837
+
+Point 790:
+final x axis is 47.271808738625275
+final y axis is  80.19457080638067
+final Velocity in x axis is  -1.5246955118019974
+final velocity in y axis is  -3.7952239843088944
+
+Point 791:
+final x axis is -109.37764438546323
+final y axis is  63.19164345428139
+final Velocity in x axis is  4.409092440140956
+final velocity in y axis is  2.262426868315197
+
+Point 792:
+final x axis is -66.23861118300468
+final y axis is  -46.12689086656845
+final Velocity in x axis is  1.773949570241505
+final velocity in y axis is  2.3295202749773085
+
+Point 793:
+final x axis is -122.57203083277078
+final y axis is  -130.3698557818586
+final Velocity in x axis is  0.3974843622625783
+final velocity in y axis is  3.6448985913415135
+
+Point 794:
+final x axis is 95.79585031215996
+final y axis is  54.33079783872505
+final Velocity in x axis is  3.563740646843023
+final velocity in y axis is  -0.23618564312851567
+
+Point 795:
+final x axis is 52.47802969119502
+final y axis is  -159.49228480169424
+final Velocity in x axis is  0.3573794241424908
+final velocity in y axis is  2.985745508270042
+
+Point 796:
+final x axis is -31.16368210271535
+final y axis is  127.83742908184676
+final Velocity in x axis is  0.3844523904830048
+final velocity in y axis is  -2.8768713588390744
+
+Point 797:
+final x axis is 128.08540855341235
+final y axis is  135.01732822565435
+final Velocity in x axis is  -2.9137906306001504
+final velocity in y axis is  -2.699453503589379
+
+Point 798:
+final x axis is -43.501673513592245
+final y axis is  -16.496307625437183
+final Velocity in x axis is  1.6330674313740825
+final velocity in y axis is  -0.6941379583838698
+
+Point 799:
+final x axis is 97.96554980874001
+final y axis is  -89.42952751475931
+final Velocity in x axis is  -8.596900905344866
+final velocity in y axis is  0.39062745299643353
+
